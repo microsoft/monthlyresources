@@ -1,35 +1,83 @@
-3/30 9:04 Am London
+# Low Code May 
 
-# Project
+We’re excited to offer new ways for you to dive deeper into Power Apps and learn how to scale your work through low-code and [fusion teams](https://aka.ms/fusionblogbuild2021). To get you started, we have released a new low code [learning path](https://aka.ms/fusion-dev-path) and we'd love your feedback.  Down the road at Build, we have tons of opportunities for you to learn about developer velocity, pro and low-code integration, and more. In the meantime, please check out all the great content here and get started with low code today! 
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+[Eric • GitHub](https://github.com/eamcc)   
 
-As the maintainer of this project, please make a few updates:
+ 
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+### Featured Content 
 
-## Contributing
+:loudspeaker:**Build 2021** 
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
+Announcement for Build 2021. [Click here](https://aka.ms/DevEdCalMay21github1) 
 
-When you submit a pull request, a CLA bot will automatically determine whether you need to provide
-a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions
-provided by the bot. You will only need to do this once across all repos using our CLA.
+:one:**POWERful Devs** 
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+A channel dedicated to empowering developers to leverage the Power Platform. [Click here](https://aka.ms/DevEdCalMay21github2)    
 
-## Trademarks
+:two:**Achieve your app development goals with Power Platform and Azure** 
 
-This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft 
-trademarks or logos is subject to and must follow 
-[Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general).
-Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship.
-Any use of third-party trademarks or logos are subject to those third-party's policies.
+How Power Platform and Azure can help developers achieve their goals more efficiently. ​[Click here](https://aka.ms/DevEdCalMay21github3) 
+
+:three:**Pro dev low-code learning path** 
+
+Learning path about fusion development teams and low-code concepts for professional developers. [Click here](https://aka.ms/DevEdCalMay21github4)      
+
+:four:**Low-code app development on Azure (YouTube)** 
+
+How-to videos for building low-code apps on Azure. [Click here](https://aka.ms/DevEdCalMay21github5) 
+
+:five:**Build apps in minutes with Power Apps and Azure** 
+
+Webinar on building apps faster with Power Apps and Azure. [Click here](https://aka.ms/DevEdCalMay21github6) 
+
+:six:**Use Power Apps and Azure for faster LOB app development** 
+
+Why use Azure services to build low-code business apps. [Click here](https://aka.ms/DevEdCalMay21github7)   
+
+:seven:**Develop, test, and deliver apps with GitHub Actions for Power Platform** 
+
+Webinar on how to fully use GitHub Actions for Power Platform. [Click here](https://aka.ms/DevEdCalMay21github8)   
+
+:eight:**Power Platform and SAP** 
+
+Technical guidance on Power Platform and SAP. [Click here](https://aka.ms/DevEdCalMay21github9)   
+
+:nine:**Create components with Power Apps Component Framework** 
+
+Three modules on how to create components with Power Apps Component Framework. [Click here](https://aka.ms/DevEdCalMay21github10)   
+
+:keycap_ten:**Low code, high value** 
+
+Real-world use cases for empowering developers. [Click here(https://aka.ms/DevEdCalMay21github11)   
+
+ 
+
+### Additional resources 
+
+* Power Apps developer certifications on Learn [Click here](https://aka.ms/DevEdCalMay21github12)  
+
+* Extend SAP solutions using Microsoft Power Platform [Click here](https://aka.ms/DevEdCalMay21github13) 
+
+* Power Apps guided tour [Click here](https://aka.ms/DevEdCalMay21github14) 
+
+* Integrate with Power Platform and Dataverse [Click here](https://aka.ms/DevEdCalMay21github15) 
+
+* How to create a no code AI app with Azure Cognitive Services and Power Apps [Click here](https://aka.ms/DevEdCalMay21github16) 
+
+* The developer’s 7-step guide to low-code app development [Click here](https://aka.ms/DevEdCalMay21github17) 
+
+* Coca-Cola UNITED manages rapid growth with Microsoft Power Platform [Click here](https://aka.ms/DevEdCalMay21github18) 
+
+* Microsoft Customer Story-Toyota Motor North America turns employee ideas into apps with Microsoft Power Platform [Click here](https://aka.ms/DevEdCalMay21github23) 
+
+* What is Microsoft Power Fx? [Click here](https://aka.ms/DevEdCalMay21github20) 
+
+* GitHub actions for the Power Platform now available in preview [Click here](https://aka.ms/DevEdCalMay21github21) 
+
+* App in a day workshop [Click here](https://aka.ms/DevEdCalMay21github22) 
+
+* Ernst & Young processes emergency loans for small business using Microsoft Power Platform [Click here](https://aka.ms/DevEdCalMay21github24) 
+
+--- 
