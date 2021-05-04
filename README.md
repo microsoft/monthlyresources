@@ -2,7 +2,7 @@
 
 We’re excited to offer new ways for you to dive deeper into Power Apps and learn how to scale your work through low-code and [fusion teams](https://aka.ms/fusionblogbuild2021). To get you started, we have released a new low code [learning path](https://aka.ms/fusion-dev-path) and we'd love your feedback.  Down the road at Build, we have tons of opportunities for you to learn about developer velocity, pro and low-code integration, and more. In the meantime, please check out all the great content here and get started with low code today! 
 
-[Eric • GitHub](https://github.com/eamcc)   
+[Eric, Power Apps PMM • LinkedIn](https://www.linkedin.com/in/ericmcchesney/)   
 
  
 
