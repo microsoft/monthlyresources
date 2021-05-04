@@ -50,7 +50,7 @@ From the core concepts to addressing more complex scenarios, this learning path 
 
 :keycap_ten:**Low code, high value** 
 
-Check out these real-world use cases on how low-code platforms can inspire and empower your code-first teams. [Click here(https://aka.ms/DevEdCalMay21github11)   
+Check out these real-world use cases on how low-code platforms can inspire and empower your code-first teams. [Click here](https://aka.ms/DevEdCalMay21github11)   
 
  
 
