@@ -8,49 +8,49 @@ We’re excited to offer new ways for you to dive deeper into Power Apps and lea
 
 ### Featured Content 
 
-:loudspeaker:**Build 2021** 
+:loudspeaker:**Microsoft Build 2021** 
 
-Announcement for Build 2021. [Click here](https://aka.ms/DevEdCalMay21github1) 
+Ready for Microsoft Build 2021? Learn, connect, and innovate with industry experts May 25–27. Mark your calendar and join us for this virtual event. [Click here](https://aka.ms/DevEdCalMay21github1) 
 
 :one:**POWERful Devs** 
 
-A channel dedicated to empowering developers to leverage the Power Platform. [Click here](https://aka.ms/DevEdCalMay21github2)    
+Watch content from fellow developers at POWERful Devs and learn how to enhance the app-development process with Power Platform. [Click here](https://aka.ms/DevEdCalMay21github2)    
 
 :two:**Achieve your app development goals with Power Platform and Azure** 
 
-How Power Platform and Azure can help developers achieve their goals more efficiently. ​[Click here](https://aka.ms/DevEdCalMay21github3) 
+Power Platform and Azure work together to integrate code-first tools with low-code tools so you can get more done in less time. ​[Click here](https://aka.ms/DevEdCalMay21github3) 
 
 :three:**Pro dev low-code learning path** 
 
-Learning path about fusion development teams and low-code concepts for professional developers. [Click here](https://aka.ms/DevEdCalMay21github4)      
+Get started with this learning path on fusion development and discover how to enable citizen developers to build low-code apps using pro-code tools you’re already familiar with. [Click here](https://aka.ms/DevEdCalMay21github4)      
 
 :four:**Low-code app development on Azure (YouTube)** 
 
-How-to videos for building low-code apps on Azure. [Click here](https://aka.ms/DevEdCalMay21github5) 
+Simplify the app-building process. Learn how with these low-code app development on Azure tutorials. [Click here](https://aka.ms/DevEdCalMay21github5) 
 
 :five:**Build apps in minutes with Power Apps and Azure** 
 
-Webinar on building apps faster with Power Apps and Azure. [Click here](https://aka.ms/DevEdCalMay21github6) 
+Need to build an app in minutes? Accelerate the process with Power Apps for mobile and web frontends and Azure for backend development. Learn how in this webinar. [Click here](https://aka.ms/DevEdCalMay21github6) 
 
 :six:**Use Power Apps and Azure for faster LOB app development** 
 
-Why use Azure services to build low-code business apps. [Click here](https://aka.ms/DevEdCalMay21github7)   
+Do you only have a few days to build a line-of-business (LOB) app? Discover how Power Apps and Azure can help you accelerate the process with effortless integration, hyper-scaling, and more. [Click here](https://aka.ms/DevEdCalMay21github7)   
 
 :seven:**Develop, test, and deliver apps with GitHub Actions for Power Platform** 
 
-Webinar on how to fully use GitHub Actions for Power Platform. [Click here](https://aka.ms/DevEdCalMay21github8)   
+Check out this webinar and learn how to develop, test, and deliver apps with GitHub Actions for Power Platform. [Click here](https://aka.ms/DevEdCalMay21github8)   
 
 :eight:**Power Platform and SAP** 
 
-Technical guidance on Power Platform and SAP. [Click here](https://aka.ms/DevEdCalMay21github9)   
+Watch this video series to help you learn how to use SAP with programs like Power Apps, Power BI, Excel, Teams, and more. [Click here](https://aka.ms/DevEdCalMay21github9)   
 
 :nine:**Create components with Power Apps Component Framework** 
 
-Three modules on how to create components with Power Apps Component Framework. [Click here](https://aka.ms/DevEdCalMay21github10)   
+From the core concepts to addressing more complex scenarios, this learning path features 3 modules to help you excel in creating components with Power Apps Component Framework. [Click here](https://aka.ms/DevEdCalMay21github10)   
 
 :keycap_ten:**Low code, high value** 
 
-Real-world use cases for empowering developers. [Click here(https://aka.ms/DevEdCalMay21github11)   
+Check out these real-world use cases on how low-code platforms can inspire and empower your code-first teams. [Click here(https://aka.ms/DevEdCalMay21github11)   
 
  
 
@@ -81,3 +81,7 @@ Real-world use cases for empowering developers. [Click here(https://aka.ms/DevEd
 * Ernst & Young processes emergency loans for small business using Microsoft Power Platform [Click here](https://aka.ms/DevEdCalMay21github24) 
 
 --- 
+
+ 
+
+:bookmark: See you at Microsoft Build 2021 [Click here](https://aka.ms/DevEdCalMay21github1) 
