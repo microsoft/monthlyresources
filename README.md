@@ -84,4 +84,4 @@ Check out these real-world use cases on how low-code platforms can inspire and e
 
  
 
-:bookmark: **See you at Microsoft Build 2021!** [Click here](https://aka.ms/DevEdCalMay21github1) 
+:bookmark: See you at Microsoft Build 2021 [Click here](https://aka.ms/DevEdCalMay21github1) 
