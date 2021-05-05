@@ -6,6 +6,18 @@ We’re excited to offer new ways for you to dive deeper into Power Apps and lea
 
  
 
+### Code Samples 
+
+:computer:**PowerApps Samples**   
+
+Sample code for Power Apps, including Dataverse, model-driven apps, canvas apps, Power Apps component framework, portals, and ai-builder. [Click here](https://aka.ms/DevEdCalMay21github25)   
+
+:computer:**Fusion-dev-ebook: Sample Code for eBook**  
+
+Use Power Apps to bring your business and pro devs together to build apps fast. [Click here](https://aka.ms/DevEdCalMay21github26)   
+
+
+
 ### Featured Content 
 
 :loudspeaker:**Microsoft Build 2021** 
