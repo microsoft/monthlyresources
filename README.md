@@ -5,8 +5,9 @@ Use this repository to explore the latest content and code samples. Each month w
 
 # Best of Microsoft Build 2021
 
-At Microsoft, it is our mission to empower you as a developer on your terms – using the tools, languages, and platform of your choice. We provide best-in-class tools and a cloud platform with a unique set of capabilities that enable you to build the next generation of applications. Microsoft Build 2021 brought together the various technologies that support you in addressing the real-world needs of your customers. Our content this month brings you the best of Microsoft Build 2021.  
-[Jenn Jinhong, Sr. PMM • LinkedIn](https://www.linkedin.com/in/jenniferjinhong/)  
+:wave:**Hi everyone** - Microsoft Build 2021 brought together the various technologies that empower you as a developer on your terms – using the tools, languages, and platform of your choice – and enable you to build the next generation of applications. Our 'monthly resources' bring you the best of Microsoft Build 2021. We hope that these resources along the [other content from Microsoft Build](https://aka.ms/DevEdCalJune21githubbookmark) will help you innovate and support you in addressing the real-world needs of your organizations and your customers. 
+
+**[- Monish Gangwani, Sr. Dev PMM]**(https://www.linkedin.com/in/monisg/)  
 
  ### Featured Content
 
