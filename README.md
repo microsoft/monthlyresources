@@ -1,99 +1,48 @@
-# Low Code May 
+# Monthly Resources
+Use this repository to explore the latest content and code samples. Each month we will release "best of" content resources that relate to a particular theme.  
+---
 
-We’re excited to offer new ways for you to dive deeper into Power Apps and learn how to scale your work through low-code and [fusion teams](https://aka.ms/fusionblogbuild2021). To get you started, we have released a new low code [learning path](https://aka.ms/fusion-dev-path) and we'd love your feedback.  Down the road at Build, we have tons of opportunities for you to learn about developer velocity, pro and low-code integration, and more. In the meantime, please check out all the great content here and get started with low code today! 
+# Best of Microsoft Build 2021
+At Microsoft, it is our mission to empower you as a developer on your terms – using the tools, languages, and platform of your choice. We provide best-in-class tools and a cloud platform with a unique set of capabilities that enable you to build the next generation of applications. Microsoft Build 2021 brought together the various technologies that support you in addressing the real-world needs of your customers. Our content this month brings you the best of Microsoft Build 2021.  
+-	[Jenn Jinhong • LinkedIn](https://www.linkedin.com/in/jenniferjinhong/)  
 
-[Eric, Power Apps PMM • LinkedIn](https://www.linkedin.com/in/ericmcchesney/)   
+ ### Featured Content
+:one:**Microsoft Build Opening Keynote**
+Microsoft Build opening keynote by our CEO, Satya Nadella. [Click here](https://aka.ms/DevEdCalJune21github10/)   
+:two:**Azure is the home for your enterprise Java apps**
+With Java apps on Azure, you can modernize and extend your apps and achieve greater productivity, scale, and flexibility. [Click here](https://aka.ms/DevEdCalJune21github7/) 
+:three:**What's new in Visual Studio Code**
+Discover what's new in Visual Studio Code - from new capabilities for debugging and testing to exciting features and extensions that might change the way you code… and think. [Click here]( https://aka.ms/DevEdCalJune21github12/)     
+:four:** Build cloud-native applications that run anywhere**
 
- 
+Newly announced preview capabilities in Azure application services that let you build cloud-native apps that run anywhere and are extensible to on-premises environments, edge locations, and even other public clouds. [Click here](https://aka.ms/DevEdCalJune21github13/)  
+:five:**Gain flexibility to run open-source apps your way with Microsoft Azure**
+Learn how Azure can help you build open-source apps faster while gaining the flexibility to choose which language to use and where to run your apps—on-premises, in any cloud, or on an edge device. [Click here]( https://aka.ms/DevEdCalJune21github1/)
+:six:**Harness the power of data and AI in your apps with Azure**
+How Azure allows developers to utilize the power of data and AI to create innovative, cloud-based apps at scale. [Click here](https://aka.ms/DevEdCalJune21github3) 
+:seven:**Announcing general availability of Microsoft Build of OpenJDK**
+Microsoft Build of OpenJDK is an open-source distribution that’s available for anyone to deploy anytime, anywhere. Use Java on Azure, Minecraft, LinkedIn, and beyond. [Click here]( https://aka.ms/DevEdCalJune21github9/)  
+:eight:**Microsoft ❤️ developers: Welcome to Build 2021**
+How the Microsoft Cloud technology stack gives developers the capabilities to create and innovate at scale from anywhere for anybody. [Click here](https://aka.ms/DevEdCalJune21github5/)  
+:nine:**Create a web API with ASP.NET Core**
+How to build a RESTful service with ASP.NET Core that supports Create, Read, Update, Delete operations. [Click here](https://aka.ms/DevEdCalJune21github2/)  
+:keycap_ten:**Converging the physical and digital with digital twins, mixed reality, and metaverse apps**
+Check out this blog to read about a multinational company that uses the full technology stack of metaverse apps, digital twins, and mixed reality to transform its operations and optimization. [Click here](https://aka.ms/DevEdCalJune21github6/)  
+:one::one:**Learn how to build exciting apps across meetings, chats, and channels within or outside Microsoft Teams**
+This Microsoft Build 2021 session features exciting new ways to leverage Microsoft Teams to help you customize communications and make interactions more inclusive and fun. [Click here](https://aka.ms/DevEdCalJune21github8/)  
+:one::two:** Get started with popular programming languages: Intro to Python and C**
+Christopher Harrison and James Montemagno introduce you to the powerful languages – Python and C# and show you the docs, tools, and frameworks that can get you coding today! [Click here](https://aka.ms/DevEdCalJune21github4/)
 
-### Code Samples 
-
-:computer:**PowerApps Samples**   
-
-Sample code for Power Apps, including Dataverse, model-driven apps, canvas apps, Power Apps component framework, portals, and ai-builder. [Click here](https://aka.ms/DevEdCalMay21github25)   
-
-:computer:**Fusion-dev-ebook: Sample Code for eBook**  
-
-Use Power Apps to bring your business and pro devs together to build apps fast. [Click here](https://aka.ms/DevEdCalMay21github26)   
 
 
+### Additional resources
+* Microsoft: Into Focus with Scott Guthrie, Scott Hanselman, Rajesh Jha, and Kevin Scott [Click here](https://aka.ms/DevEdCalJune21github18/) 
+* Azure at Microsoft Build recap: Build amazing things on your terms, anywhere [Click here](https://aka.ms/DevEdCalJune21github15/)
+* Announced at Build: New options to build and test apps at any scale [Click here](https://aka.ms/DevEdCalJune21github14/)
+* Build 2021 — Conversational AI update [Click here](https://aka.ms/DevEdCalJune21github16/)
+* Microsoft Build 2021: What’s new with Azure Communication Services? [Click here](https://aka.ms/DevEdCalJune21github19/)
+* Introducing Developer Velocity Lab — A research initiative to amplify developer work and well-being [Click here](https://aka.ms/DevEdCalJune21github17/)
+* Transforming Minecraft Dungeons into a great mobile cloud gaming experience [Click here](https://aka.ms/DevEdCalJune21github11/)
+---
 
-### Featured Content 
-
-:loudspeaker:**Microsoft Build 2021** 
-
-Ready for Microsoft Build 2021? Learn, connect, and innovate with industry experts May 25–27. Mark your calendar and join us for this virtual event. [Click here](https://aka.ms/DevEdCalMay21github1) 
-
-:one:**POWERful Devs** 
-
-Watch content from fellow developers at POWERful Devs and learn how to enhance the app-development process with Power Platform. [Click here](https://aka.ms/DevEdCalMay21github2)    
-
-:two:**Achieve your app development goals with Power Platform and Azure** 
-
-Power Platform and Azure work together to integrate code-first tools with low-code tools so you can get more done in less time. ​[Click here](https://aka.ms/DevEdCalMay21github3) 
-
-:three:**Pro dev low-code learning path** 
-
-Get started with this learning path on fusion development and discover how to enable citizen developers to build low-code apps using pro-code tools you’re already familiar with. [Click here](https://aka.ms/DevEdCalMay21github4)      
-
-:four:**Low-code app development on Azure (YouTube)** 
-
-Simplify the app-building process. Learn how with these low-code app development on Azure tutorials. [Click here](https://aka.ms/DevEdCalMay21github5) 
-
-:five:**Build apps in minutes with Power Apps and Azure** 
-
-Need to build an app in minutes? Accelerate the process with Power Apps for mobile and web frontends and Azure for backend development. Learn how in this webinar. [Click here](https://aka.ms/DevEdCalMay21github6) 
-
-:six:**Use Power Apps and Azure for faster LOB app development** 
-
-Do you only have a few days to build a line-of-business (LOB) app? Discover how Power Apps and Azure can help you accelerate the process with effortless integration, hyper-scaling, and more. [Click here](https://aka.ms/DevEdCalMay21github7)   
-
-:seven:**Develop, test, and deliver apps with GitHub Actions for Power Platform** 
-
-Check out this webinar and learn how to develop, test, and deliver apps with GitHub Actions for Power Platform. [Click here](https://aka.ms/DevEdCalMay21github8)   
-
-:eight:**Power Platform and SAP** 
-
-Watch this video series to help you learn how to use SAP with programs like Power Apps, Power BI, Excel, Teams, and more. [Click here](https://aka.ms/DevEdCalMay21github9)   
-
-:nine:**Create components with Power Apps Component Framework** 
-
-From the core concepts to addressing more complex scenarios, this learning path features 3 modules to help you excel in creating components with Power Apps Component Framework. [Click here](https://aka.ms/DevEdCalMay21github10)   
-
-:keycap_ten:**Low code, high value** 
-
-Check out these real-world use cases on how low-code platforms can inspire and empower your code-first teams. [Click here](https://aka.ms/DevEdCalMay21github11)   
-
- 
-
-### Additional resources 
-
-* Power Apps developer certifications on Learn [Click here](https://aka.ms/DevEdCalMay21github12)  
-
-* Extend SAP solutions using Microsoft Power Platform [Click here](https://aka.ms/DevEdCalMay21github13) 
-
-* Power Apps guided tour [Click here](https://aka.ms/DevEdCalMay21github14) 
-
-* Integrate with Power Platform and Dataverse [Click here](https://aka.ms/DevEdCalMay21github15) 
-
-* How to create a no code AI app with Azure Cognitive Services and Power Apps [Click here](https://aka.ms/DevEdCalMay21github16) 
-
-* The developer’s 7-step guide to low-code app development [Click here](https://aka.ms/DevEdCalMay21github17) 
-
-* Coca-Cola UNITED manages rapid growth with Microsoft Power Platform [Click here](https://aka.ms/DevEdCalMay21github18) 
-
-* Microsoft Customer Story-Toyota Motor North America turns employee ideas into apps with Microsoft Power Platform [Click here](https://aka.ms/DevEdCalMay21github23) 
-
-* What is Microsoft Power Fx? [Click here](https://aka.ms/DevEdCalMay21github20) 
-
-* GitHub actions for the Power Platform now available in preview [Click here](https://aka.ms/DevEdCalMay21github21) 
-
-* App in a day workshop [Click here](https://aka.ms/DevEdCalMay21github22) 
-
-* Ernst & Young processes emergency loans for small business using Microsoft Power Platform [Click here](https://aka.ms/DevEdCalMay21github24) 
-
---- 
-
- 
-
-:bookmark: **See you at Microsoft Build 2021!** [Click here](https://aka.ms/DevEdCalMay21github1) 
+:bookmark: Check out all the Microsoft Build 2021 content [Click here](https://aka.ms/DevEdCalJune21githubbookmark)
