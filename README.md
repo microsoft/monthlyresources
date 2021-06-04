@@ -1,8 +1,3 @@
-# Monthly Resources
-
-Use this repository to explore the latest content and code samples. Each month we will release "best of" content resources that relate to a particular theme.  
----
-
 # Best of Microsoft Build 2021
 
 :wave:**Hi everyone** - Microsoft Build 2021 brought together the various technologies that empower you as a developer to build the next generation of applications. Our 'monthly resources' bring you the best of Microsoft Build 2021. 
