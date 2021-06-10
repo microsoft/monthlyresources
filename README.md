@@ -6,6 +6,15 @@ We hope that these resources along with the [other content from Microsoft Build]
 
 *[- Monish Gangwani, Sr. Dev PMM](https://www.linkedin.com/in/monisg/)*  
 
+
+ ### Roll-ups from Microsoft Build 2021
+
+:scroll:**Visual Studio** – sessions for Visual Studio, VS Code, and .NET teams that we encourage you to watch.Azure is the home for your enterprise Java apps. [Watch the replay](https://aka.ms/DevEdCalJune21github22)
+
+:scroll:**Visual Studio Code** – here is a hand-picked selection of sessions for you, VS Code users and developers. [Watch the replay](https://aka.ms/DevEdCalJune21github23)
+
+
+
  ### Featured Content
 
 :cinema:**Microsoft Build Opening Keynote**
@@ -16,9 +25,13 @@ Microsoft Build opening keynote by our CEO, Satya Nadella. [Click here](https://
 
 With Java apps on Azure, you can modernize and extend your apps and achieve greater productivity, scale, and flexibility. [Click here](https://aka.ms/DevEdCalJune21github7/)
 
-:cinema:**What's new in Visual Studio Code**
+:cinema:**Application Development with Scott Hanselman & Friends** 
 
-Discover what's new in Visual Studio Code - from new capabilities for debugging and testing to exciting features and extensions that might change the way you code… and think. [Click here]( https://aka.ms/DevEdCalJune21github12/)
+Scott Hanselman and friends show the latest and greatest in application development for you to be successful. [Watch now](https://aka.ms/DevEdCalJune21github21/). 
+
+:bookmark_tabs:**Kickstart collaborative DevSecOps practices with GitHub and Azure**
+
+Go from code to cloud with GitHub Actions for Azure and GitHub integrations + Azure Services. [Learn how](https://aka.ms/DevEdCalJune21github20/). 
 
 :bookmark_tabs:**Build cloud-native applications that run anywhere**
 
@@ -47,10 +60,6 @@ How to build a RESTful service with ASP.NET Core that supports Create, Read, Upd
 :bookmark_tabs:**Converging the physical and digital with digital twins, mixed reality, and metaverse apps**
 
 Check out this blog to read about a multinational company that uses the full technology stack of metaverse apps, digital twins, and mixed reality to transform its operations and optimization. [Click here](https://aka.ms/DevEdCalJune21github6/)  
-
-:bookmark_tabs:**Learn how to build exciting apps across meetings, chats, and channels within or outside Microsoft Teams**
-
-This Microsoft Build 2021 session features exciting new ways to leverage Microsoft Teams to help you customize communications and make interactions more inclusive and fun. [Click here](https://aka.ms/DevEdCalJune21github8/)  
 
 :cinema:**Get started with popular programming languages: Intro to Python and C**
 
