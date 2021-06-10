@@ -9,7 +9,7 @@ We hope that these resources along with the [other content from Microsoft Build]
 
  ### Roll-ups from Microsoft Build 2021
 
-:scroll:**Visual Studio** – sessions for Visual Studio, VS Code, and .NET teams that we encourage you to watch.Azure is the home for your enterprise Java apps. [Watch the replay](https://aka.ms/DevEdCalJune21github22)
+:scroll:**Visual Studio** – sessions for Visual Studio, VS Code, and .NET teams that we encourage you to watch. Azure is the home for your enterprise Java apps. [Watch the replay](https://aka.ms/DevEdCalJune21github22)
 
 :scroll:**Visual Studio Code** – here is a hand-picked selection of sessions for you, VS Code users and developers. [Watch the replay](https://aka.ms/DevEdCalJune21github23)
 
