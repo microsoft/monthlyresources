@@ -43,9 +43,7 @@ Hear first-hand from the inventor of Kubernetes about his experiences as a devel
 
 :cinema:**Build consistent hybrid and multicloud applications with Azure Arc**
 
-Learn how to write once and run anywhere using your preferred cloud-native application services + Azure Arc.
- 
-[Watch now](https://docs.microsoft.com/en-us/events/build-may-2021/azure/breakouts/brk233/?ocid=AID3034986)
+Learn how to write once and run anywhere using your preferred cloud-native application services and Azure Arc. [Watch now](https://docs.microsoft.com/en-us/events/build-may-2021/azure/breakouts/brk233/?ocid=AID3034986)
 
 :cinema:**Deploying cloud native applications to Azure Red Hat OpenShift** 
 
