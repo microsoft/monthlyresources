@@ -18,6 +18,7 @@ We hope that these resources will help you innovate and address the real-world n
 Build cloud-native applications that run anywhere—with Azure application services and Azure Arc-enabled Kubernetes. [Read the blog ](https://azure.microsoft.com/en-us/blog/build-cloudnative-applications-that-run-anywhere/?ocid=AID3034986)
 
 :cinema:**Microsoft Build Round Up, Developer Edition**
+
 Catch up on our big launches, what’s new in Azure, developer Q&A—and of course, in-depth demos! [Watch now](https://info.microsoft.com/ww-ondemand-microsoft-build-round-up-developer-edition.html?lcid=en-us/?ocid=AID3034986)  
 
 :scroll:**Gain flexibility to run open source applications your way with Microsoft Azure**
@@ -42,7 +43,9 @@ Hear first-hand from the inventor of Kubernetes about his experiences as a devel
 
 :cinema:**Build consistent hybrid and multicloud applications with Azure Arc**
 
-Learn how to write once and run anywhere using your preferred cloud-native application services + Azure Arc. [Watch now](https://docs.microsoft.com/en-us/events/build-may-2021/azure/breakouts/brk233/?ocid=AID3034986)
+Learn how to write once and run anywhere using your preferred cloud-native application services + Azure Arc.
+ 
+[Watch now](https://docs.microsoft.com/en-us/events/build-may-2021/azure/breakouts/brk233/?ocid=AID3034986)
 
 :cinema:**Deploying cloud native applications to Azure Red Hat OpenShift** 
 
@@ -64,6 +67,9 @@ OpenShift Serverless helps developers to deploy and run applications that will s
 
 Not just for cloud native applications, containers are vehicles for application modernization. Learn how to plan your project with Kubernetes: [Learn how](https://mybuild.microsoft.com/sessions/fd09c810-26ad-45bd-957b-1a70b74d93ec?source=sessions/?ocid=AID3034986)
 
+:hearts:**Technical Story - Kainos and NHS Digital deliver health services to millions on Microsoft Azure**
+
+ By pioneering the use of a containerized architecture on Azure, Kainos was able to deliver a highly secure service based on containers. [Learn how](https://customers.microsoft.com/en-us/story/1368348549535774520-kainos-and-nhs-digital-deliver-health-services-to-millions-on-microsoft-azure/?ocid=AID3034986)
 
 ---
 
