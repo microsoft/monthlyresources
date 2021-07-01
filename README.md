@@ -29,9 +29,9 @@ Read the blog from Azure Open Source Architect John Gossman. [Check it out](http
 
 Build applications with your favorite languages, platforms, tools, and databases—discover the Microsoft open source journey, and the wide range of open source technologies and services available in Azure. [Watch now]( https://docs.microsoft.com/en-us/events/build-may-2021/azure/breakouts/brk230/?ocid=AID3034986) 
 
-:cinema:**What is Kurbernetes? – A conversation with Brendan Burns** 
+:cinema:**A conversation with Brendan Burns: What is Kubernetes?** 
 
-Kubernetes is shaping the future of app development and management, and Microsoft wants to help you get started with it. [Get the guide](https://www.youtube.com/watch?app=desktop&v=q1PcAawa4Bg&list=PLLasX02E8BPCrIhFrc_ZiINhbRkYMKdPT/?ocid=AID3034986)
+Learn from Brendan Burns, the inventor of Kubernetes what Kubernetes and containers are, how to use them, and why they're important to developers. [Watch now](https://www.youtube.com/watch?app=desktop&v=q1PcAawa4Bg&list=PLLasX02E8BPCrIhFrc_ZiINhbRkYMKdPT/?ocid=AID3034986)
 
 :scroll:**Kubernetes Learning Path** 
 
