@@ -1,73 +1,66 @@
-JULY RESOURCES FOR DEVELOPERS
-# Cloud Native Apps 
+AUGUST RESOURCES FOR DEVELOPERS
+# IoT and DevSecOps
 
-:wave: **Hi everyone** – welcome to the July updates to our Developer Resources repository. This month we’re featuring **what’s new and what’s next about Cloud Native Apps**. 
+:wave: **Hi everyone** – welcome to August updates to our Developer Resources repository. This month we’re featuring **what’s new and what’s next in IoT and DevSecOps**. 
 
-Among several exciting announcements at Microsoft Build 2021, we announced the preview capabilities in Azure application services that let you build cloud-native apps that run anywhere. With these capabilities, you can extend your cloud-native apps to on-premises environments, edge locations, and even other public clouds - you can read the blog and watch the session. In addition, we bring you other videos and tutorials from our SMEs on Azure Red Hat OpenShift, Kubernetes, and OpenSource. 
+Discover productive and scalable IoT solutions. Whether you’re an experienced cloud developer or just getting started with IoT, these demos, projects, and training tools will help you develop next-generation IoT solutions today. And check out the latest in DevSecOps to help you utilize security best practices from the beginning of development.
 
-We hope that these resources will help you innovate and address the real-world needs of your organizations. Watch us and star us for our latest repository versions.
+Watch us and star us for our latest repository versions.
 
 *[- Monish Gangwani, Sr. Dev PMM](https://www.linkedin.com/in/monisg/)*  
 
 ---
+ ### Featured Content for IoT and DevSecOps 
 
- ### Featured Content for Cloud Native Apps 
+:cinema:**Exploring the tools for DevSecOps in a CI/CD Pipeline on Azure**
 
-:scroll:**Build cloud-native applications that run anywhere**
+Victoria Almazova and David Blank-Edelman discuss and demo tools for DevSecOps in a CI/CD Pipeline on Azure. [Watch now](https://www.youtube.com/watch?v=ctCLx7_sT88/?ocid=AID3037590)
 
-Build cloud-native applications that run anywhere—with Azure application services and Azure Arc-enabled Kubernetes. [Read the blog ](https://azure.microsoft.com/en-us/blog/build-cloudnative-applications-that-run-anywhere/?ocid=AID3034986)
+:scroll:**IoT for Beginners - A Curriculum**
 
-:cinema:**Microsoft Build Round Up, Developer Edition**
+Microsoft Azure Cloud Advocates from around the world created this 12-week, 24-lesson curriculum all about IoT. Each lesson includes pre- and post-lesson quizzes, written instructions to complete the lesson, a solution, and more! [Check out the repo](https://github.com/microsoft/IoT-For-Beginners/?ocid=AID3037590)  
 
-Catch up on our big launches, what’s new in Azure, developer Q&A—and of course, in-depth demos! [Watch now](https://info.microsoft.com/ww-ondemand-microsoft-build-round-up-developer-edition.html?lcid=en-us/?ocid=AID3034986)  
+:scroll:**GitHub Repo for End-to-End IoT Demos**
 
-:scroll:**Gain flexibility to run open source applications your way with Microsoft Azure**
+Repository with end-to-end IoT demos, created by our IoT Engineering team. You'll find use cases and the IoT architectures that enable them. [View the repo](https://github.com/Azure-Samples/IoTDemos?ocid=AID3037590)
 
-Read the blog from Azure Open Source Architect John Gossman. [Check it out](https://azure.microsoft.com/en-us/blog/gain-flexibility-to-run-open-source-applications-your-way-with-microsoft-azure/?ocid=AID3034986)
 
-:cinema:**Run Open Source Applications your way with Microsoft Azure** 
+:cinema:**Retro Game Translation Tablet with C#, CogServices, and Azure IoT Edge** 
 
-Build applications with your favorite languages, platforms, tools, and databases—discover the Microsoft open source journey, and the wide range of open source technologies and services available in Azure. [Watch now]( https://docs.microsoft.com/en-us/events/build-may-2021/azure/breakouts/brk230/?ocid=AID3034986) 
+In this video Paul DeCarlo shows Scott Hanselman how Azure IoT Edge enables you to deploy cloud intelligence locally on edge devices. Paul uses IoT Edge with Cognitive Services Containers to enhance his favorite retro videogames [Watch now](https://azure.microsoft.com/en-us/resources/videos/azure-friday-retro-game-translation-with-azure-cognitive-services-and-iot-edge/?ocid=AID3037590) 
 
-:cinema:**A conversation with Brendan Burns: What is Kubernetes?** 
 
-Learn from Brendan Burns, the inventor of Kubernetes what Kubernetes and containers are, how to use them, and why they're important to developers. [Watch now](https://www.youtube.com/watch?app=desktop&v=q1PcAawa4Bg&list=PLLasX02E8BPCrIhFrc_ZiINhbRkYMKdPT/?ocid=AID3034986)
+:cinema:**Scaling DevSecOps with GitHub and Azure** 
 
-:scroll:**Kubernetes Learning Path** 
+Adopting DevSecOps practices at scale requires you to quickly and securely go from code to cloud. Learn how GitHub Actions for Azure and GitHub integrations with Azure Services help build workflows that enable continuous delivery. [Watch now](https://mybuild.microsoft.com/sessions/87cc3b82-bc57-483d-90b3-e91e12516352?WT.mc_id=devops-00000-jessde/?ocid=AID3037590)
 
-Kubernetes is shaping the future of app development and management. Get started with it today. [Get the guide](https://azure.microsoft.com/en-us/resources/kubernetes-learning-path/?ocid=AID3034986)
+:scroll:**Prep for the Microsoft Azure IoT Developer exam** 
 
-:cinema:**A conversation with Brendan Burns: Career Development**
+This study group is designed to help you prepare for the Microsoft Azure IoT Developer exam and is open to all who want to register. [Sign up today](https://one-commercial-partner.github.io/OCPScale/Azure/StudyGroups/AZ-220/?WT.mc_id=julyot-iottechcommunity-cxa/?ocid=AID3037590)
 
-Hear first-hand from the inventor of Kubernetes about his experiences as a developer and how to find and follow the ideal career path that’s best for you. [Watch now](https://www.youtube.com/watch?app=desktop&v=dCQzrnUYR-c&list=PLLasX02E8BPCrIhFrc_ZiINhbRkYMKdPT&index=2/?ocid=AID3034986)    
+:cinema:**On Prem to the Cloud: Security is Not an Afterthought**
 
-:cinema:**Build consistent hybrid and multicloud applications with Azure Arc**
+In this episode of the Channel 9 series, The DevOps Lab, Damian Brady and Dean Bryen explore moving on prem to the Cloud and why security is not an afterthought. [Watch now](https://channel9.msdn.com/Shows/DevOps-Lab/On-Prem-To-The-Cloud-Security-is-Not-an-Afterthought-episode-9/?ocid=AID3037590)
 
-Learn how to write once and run anywhere using your preferred cloud-native application services and Azure Arc. [Watch now](https://docs.microsoft.com/en-us/events/build-may-2021/azure/breakouts/brk233/?ocid=AID3034986)
+:scroll:**Community tools to kick start your Azure Sphere projects**
 
-:cinema:**Deploying cloud native applications to Azure Red Hat OpenShift** 
+Azure Sphere is a unique highly secure IoT platform. This article from Dave Glover covers three community driven tools that can help kick start your Azure Sphere projects ― with useful demos.  [Check it out](https://techcommunity.microsoft.com/t5/internet-of-things/community-tools-to-kick-start-your-azure-sphere-projects/ba-p/2554654/?ocid=AID3037590)
 
-Learn how to deploy cloud native applications to Azure Red Hat OpenShift in this short demo. [Watch now ](https://azure.microsoft.com/en-us/resources/videos/deploying-cloud-native-applications-to-azure-red-hat-openshift/?ocid=AID3034986)
+:scroll:**Develop with Azure Digital Twins**
 
-:scroll:**Deploy an application from Source to Azure Red Hat OpenShift** 
+Digital Twins is the new wave of innovation that helps unlock advanced scenarios in IoT and beyond, enabling you to evolve from connected assets to connected environments. [Learn how](https://docs.microsoft.com/en-us/learn/paths/develop-azure-digital-twins/?ocid=AID3037590)
 
-Source-to-Image (S2I) is a build process for building reproducible container images from source code. [Learn more](https://docs.microsoft.com/en-us/azure/openshift/howto-deploy-with-s2i/?ocid=AID3034986)
+:cinema:**Microsoft Azure Defender for IoT: Deployment methodologies** 
 
-:cinema:**Serverless: Event-driven application development**
+Learn how to deploy Azure Defender for IoT in an air-gapped environment, and as a cloud-connected solution. Join James Cabe and Anthony Bartolo as they walk through the steps. [Watch now](https://partner.microsoft.com/en-us/training/assets/detail/deployment-methodologies-mp4?ocid=AID3037590)
 
-Learn about options for event driven patterns across Azure Functions, containers, Kubernetes and messaging—so you can better understand what will work best for your team. [Watch now](https://docs.microsoft.com/en-us/events/build-may-2021/azure/breakouts/brk232/?ocid=AID3034986)
+:cinema:**Reactor Series - Hello IoT**
 
-:scroll:**Deploy an application to Azure Red Hat OpenShift using OpenShift Serverless**
+Senior Cloud Advocate Jim Bennett covers IoT for Beginners in this 4-part Reactor series. Jim introduces IoT, devices and connectivity, and a review of related concepts. [Watch now]( https://developer.microsoft.com/en-us/reactor/eventseries/HelloIoT/?wt.mc_id=seriespg_13421_webpage_reactor?ocid=AID3037590)
 
-OpenShift Serverless helps developers to deploy and run applications that will scale up or scale to zero on-demand. [Learn how](https://docs.microsoft.com/en-us/azure/openshift/howto-deploy-with-serverless/?ocid=AID3034986)
+:scroll:**Azure Percept Audio - Home Automation with Azure Functions, Azure IoT Hub and Raspberry Pi**
 
-:scroll:**Modernizing containers**
-
-Not just for cloud native applications, containers are vehicles for application modernization. Learn how to plan your project with Kubernetes: [Learn how](https://mybuild.microsoft.com/sessions/fd09c810-26ad-45bd-957b-1a70b74d93ec?source=sessions/?ocid=AID3034986)
-
-:hearts:**Technical Story - Kainos and NHS Digital deliver health services to millions on Microsoft Azure**
-
- By pioneering the use of a containerized architecture on Azure, Kainos was able to deliver a highly secure service based on containers. [Learn how](https://customers.microsoft.com/en-us/story/1368348549535774520-kainos-and-nhs-digital-deliver-health-services-to-millions-on-microsoft-azure/?ocid=AID3034986)
+Delve into the world of home automation with Azure Percept, Azure Functions and IoT Hub. [Learn how](https://techcommunity.microsoft.com/t5/internet-of-things/azure-percept-audio-home-automation-with-azure-functions-azure/ba-p/2528048?ocid=AID3037590)
 
 ---
 
