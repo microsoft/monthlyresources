@@ -1,7 +1,7 @@
 AUGUST RESOURCES FOR DEVELOPERS
 # IoT and DevSecOps
 
-:wave: **Hi everyone** – welcome to August updates to our Developer Resources repository. This month we’re featuring **what’s new and what’s next in IoT and DevSecOps**. 
+:wave: **Hi everyone** – welcome to the August updates to our Developer Resources repository. This month we’re featuring **what’s new and what’s next in IoT and DevSecOps**. 
 
 Discover productive and scalable IoT solutions. Whether you’re an experienced cloud developer or just getting started with IoT, these demos, projects, and training tools will help you develop next-generation IoT solutions today. And check out the latest in DevSecOps to help you utilize security best practices from the beginning of development.
 
