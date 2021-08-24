@@ -16,7 +16,7 @@ Learn how you can build, migrate and scale Java applications on Azure. Use tools
 
  
 
-:cinema:**Microsoft Reactor Event Series: DevOps for Java Shops ** 
+:cinema:**Microsoft Reactor Event Series: DevOps for Java Shops** 
 
 Learn new ways to reliably make updates and maintain cloud code. Brian Benz and Rory Preddy demo real-world examples using Linux command line tools, open-source tools including Jenkins, and free SDKs on GitHub. [Watch now.](https://developer.microsoft.com/reactor/eventseries/devopsjavashops/?ocid=AID3039167)   
 
