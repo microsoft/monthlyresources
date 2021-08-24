@@ -1,5 +1,5 @@
 AUGUST RESOURCES FOR DEVELOPERS
-# IoT and DevSecOps
+#IoT and DevSecOps
 
 :wave: **Hi everyone** – welcome to the August updates to our Developer Resources repository. This month we’re featuring **what’s new and what’s next in IoT and DevSecOps**. 
 
