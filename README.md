@@ -1,5 +1,6 @@
 SEPTEMBER RESOURCES FOR DEVELOPERS 
-# Java on Azure 
+
+#Java on Azure 
 
 :wave: **Hi everyone** – This month, we feature what’s new and what’s next in Java including Java on Azure Spring Cloud. Build and scale faster with Java on Azure using the tools you love. Explore the latest in Java demos, quick-start guides, integrations and more from Microsoft SMEs.   
 
@@ -7,7 +8,7 @@ SEPTEMBER RESOURCES FOR DEVELOPERS
 
 --- 
 
- ### Featured Content for Java on Azure  
+### Featured Content for Java on Azure  
 
 :scroll:**Java on Azure learning path** 
 
@@ -69,7 +70,7 @@ Kickstart your cloud-enabled Java apps using the latest unified SDKs. These open
 Architect Azure Spring Cloud using a typical enterprise hub and spoke design, with security controls from the Cloud Control Matrix and the Microsoft Azure Foundations Benchmark. [Learn how.](https://docs.microsoft.com/azure/spring-cloud/reference-architecture/?ocid=AID3039167) 
 
  
-:scroll:** 30 Days to Learn It: Java on Azure Developer** 
+:scroll:**30 Days to Learn It: Java on Azure Developer** 
 
 Learn how to build and scale Java applications on Azure in 30 days. Develop modern Java applications in the cloud with managed databases, DevOps services, and more. [Start the challenge.](https://docs.microsoft.com/en-us/learn/challenges?id=169a2977-dccc-4e6c-9990-1dde71b456b8/?ocid=AID3039167) 
 
