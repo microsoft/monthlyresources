@@ -1,14 +1,14 @@
 SEPTEMBER RESOURCES FOR DEVELOPERS 
-
-#Java on Azure 
+# Java on Azure 
 
 :wave: **Hi everyone** – This month, we feature what’s new and what’s next in Java including Java on Azure Spring Cloud. Build and scale faster with Java on Azure using the tools you love. Explore the latest in Java demos, quick-start guides, integrations and more from Microsoft SMEs.   
 
 *[- Monish Gangwani, Sr. Dev PMM](https://www.linkedin.com/in/monisg/)*   
 
---- 
+---
 
-### Featured Content for Java on Azure  
+## Featured Content for Java on Azure
+
 
 :scroll:**Java on Azure learning path** 
 
