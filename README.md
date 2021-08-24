@@ -1,67 +1,83 @@
-AUGUST RESOURCES FOR DEVELOPERS
-# IoT and DevSecOps
+SEPTEMBER RESOURCES FOR DEVELOPERS 
+# Java on Azure 
 
-:wave: **Hi everyone** – welcome to the August updates to our Developer Resources repository. This month we’re featuring **what’s new and what’s next in IoT and DevSecOps**. 
+:wave: **Hi everyone** – This month, we feature what’s new and what’s next in Java including Java on Azure Spring Cloud. Build and scale faster with Java on Azure using the tools you love. Explore the latest in Java demos, quick-start guides, integrations and more from Microsoft SMEs.   
 
-Discover productive and scalable IoT solutions. Whether you’re an experienced cloud developer or just getting started with IoT, these demos, projects, and training tools will help you develop next-generation IoT solutions today. And check out the latest in DevSecOps to help you utilize security best practices from the beginning of development.
+*[- Monish Gangwani, Sr. Dev PMM](https://www.linkedin.com/in/monisg/)*   
 
-Watch us and star us for our latest repository versions.
+--- 
 
-*[- Monish Gangwani, Sr. Dev PMM](https://www.linkedin.com/in/monisg/)*  
+ ### Featured Content for Java on Azure  
+
+:scroll:**Java on Azure learning path** 
+
+Learn how you can build, migrate and scale Java applications on Azure. Use tools and frameworks that you know and love – Spring, Tomcat, WildFly, JBoss, WebLogic, WebSphere, Maven, Gradle, and more. [Start here.](https://docs.microsoft.com/learn/paths/java-on-azure/?ocid=AID3039167) 
+
+ 
+
+:cinema:**Microsoft Reactor Event Series: DevOps for Java Shops ** 
+
+Learn new ways to reliably make updates and maintain cloud code. Brian Benz and Rory Preddy demo real-world examples using Linux command line tools, open-source tools including Jenkins, and free SDKs on GitHub. [Watch now.](https://developer.microsoft.com/reactor/eventseries/devopsjavashops/?ocid=AID3039167)   
+
+ 
+
+:scroll:**Open JDK overview** 
+
+ 
+The Microsoft Build of OpenJDK is a no-cost distribution of OpenJDK that is open source and available for anyone to deploy anywhere. If you're a Microsoft Azure customer, you can [try it now for free.](https://docs.microsoft.com/java/openjdk/overview/?ocid=AID3039167) 
+
+ 
+
+:scroll:**Quickstart: Create a Java app on Azure App Service**  
+
+ 
+
+Learn how to use the Azure CLI with the Azure Web App Plugin for Maven to deploy a .jar file, or .war file with AzureAppService. If you don't have an Azure subscription, create a free account before you begin. [View the guide.](https://docs.microsoft.com/azure/app-service/quickstart-java?tabs=tomcat&pivots=platform-linux/?ocid=AID3039167)  
+
+ 
+
+:scroll:**Java-to-Azure migration docs**  
+
+ 
+
+Discover recommended strategies for migrating Java applications to Azure. This Azure documentation covers general migration and specific workloads including Spring, Tomcat, WebLogic, WildFly, WebSphere and JBoss EA. [Browse the docs.](https://docs.microsoft.com/azure/developer/java/migration/?ocid=AID3039167) 
+
+ 
+
+:scroll:**Full Gradle support to deploy your Java App to Azure**  
+
+ 
+
+Now you can use Gradle to deploy your Java apps to Azure App Service or Azure Functions. You can package a Java Functions/Webapp project, run it locally, or deploy it to Azure with tasks provided by this plugin. [Check it out.](https://github.com/microsoft/azure-gradle-plugins/?ocid=AID3039167) 
+
+ 
+
+:scroll:**Choose the right Azure service for deploying your Java application** 
+
+Follow this learning path to explore service options for deploying Java applications to Azure and discover the one that best addresses your team's needs. [Learn more.](https://docs.microsoft.com/learn/modules/java-target-destinations/?ocid=AID3039167) 
+
+ 
+
+:scroll:**Use the Azure SDK for Java** 
+
+
+Kickstart your cloud-enabled Java apps using the latest unified SDKs. These open-source Azure SDKs for Java simplify provisioning, managing, and using Azure resources from Java application code — streamlining cloud development. [Check them out.](https://docs.microsoft.com/azure/developer/java/sdk/overview/?ocid=AID3039167) 
+
+
+:scroll:**Azure Spring Cloud reference architecture**  
+
+Architect Azure Spring Cloud using a typical enterprise hub and spoke design, with security controls from the Cloud Control Matrix and the Microsoft Azure Foundations Benchmark. [Learn how.](https://docs.microsoft.com/azure/spring-cloud/reference-architecture/?ocid=AID3039167) 
+
+ 
+:scroll:** 30 Days to Learn It: Java on Azure Developer** 
+
+Learn how to build and scale Java applications on Azure in 30 days. Develop modern Java applications in the cloud with managed databases, DevOps services, and more. [Start the challenge.](https://docs.microsoft.com/en-us/learn/challenges?id=169a2977-dccc-4e6c-9990-1dde71b456b8/?ocid=AID3039167) 
+
+ 
+:scroll:**Quickstart: Deploy your first Azure Spring Cloud application**  
+
+Deploy a simple Azure Spring Cloud microservice application to run on Azure. Your application will be accessible online when completed and can be managed via the Azure portal. [Try it now.](https://docs.microsoft.com/azure/spring-cloud/quickstart?tabs=Azure-CLI&pivots=programming-language-java/?ocid=AID3039167) 
 
 ---
- ### Featured Content for IoT and DevSecOps 
 
-:cinema:**Exploring the tools for DevSecOps in a CI/CD Pipeline on Azure**
-
-Victoria Almazova and David Blank-Edelman discuss and demo tools for DevSecOps in a CI/CD Pipeline on Azure. [Watch now](https://www.youtube.com/watch?v=ctCLx7_sT88/?ocid=AID3037590)
-
-:scroll:**IoT for Beginners - A Curriculum**
-
-Microsoft Azure Cloud Advocates from around the world created this 12-week, 24-lesson curriculum all about IoT. Each lesson includes pre- and post-lesson quizzes, written instructions to complete the lesson, a solution, and more! [Check out the repo](https://github.com/microsoft/IoT-For-Beginners/?ocid=AID3037590)  
-
-:scroll:**GitHub Repo for End-to-End IoT Demos**
-
-Repository with end-to-end IoT demos, created by our IoT Engineering team. You'll find use cases and the IoT architectures that enable them. [View the repo](https://github.com/Azure-Samples/IoTDemos?ocid=AID3037590)
-
-
-:cinema:**Retro Game Translation Tablet with C#, CogServices, and Azure IoT Edge** 
-
-In this video Paul DeCarlo shows Scott Hanselman how Azure IoT Edge enables you to deploy cloud intelligence locally on edge devices. Paul uses IoT Edge with Cognitive Services Containers to enhance his favorite retro videogames [Watch now](https://azure.microsoft.com/en-us/resources/videos/azure-friday-retro-game-translation-with-azure-cognitive-services-and-iot-edge/?ocid=AID3037590) 
-
-
-:cinema:**Scaling DevSecOps with GitHub and Azure** 
-
-Adopting DevSecOps practices at scale requires you to quickly and securely go from code to cloud. Learn how GitHub Actions for Azure and GitHub integrations with Azure Services help build workflows that enable continuous delivery. [Watch now](https://mybuild.microsoft.com/sessions/87cc3b82-bc57-483d-90b3-e91e12516352?WT.mc_id=devops-00000-jessde/?ocid=AID3037590)
-
-:scroll:**Prep for the Microsoft Azure IoT Developer exam** 
-
-This study group is designed to help you prepare for the Microsoft Azure IoT Developer exam and is open to all who want to register. [Sign up today](https://one-commercial-partner.github.io/OCPScale/Azure/StudyGroups/AZ-220/?WT.mc_id=julyot-iottechcommunity-cxa/?ocid=AID3037590)
-
-:cinema:**On Prem to the Cloud: Security is Not an Afterthought**
-
-In this episode of the Channel 9 series, The DevOps Lab, Damian Brady and Dean Bryen explore moving on prem to the Cloud and why security is not an afterthought. [Watch now](https://channel9.msdn.com/Shows/DevOps-Lab/On-Prem-To-The-Cloud-Security-is-Not-an-Afterthought-episode-9/?ocid=AID3037590)
-
-:scroll:**Community tools to kick start your Azure Sphere projects**
-
-Azure Sphere is a unique highly secure IoT platform. This article from Dave Glover covers three community driven tools that can help kick start your Azure Sphere projects ― with useful demos.  [Check it out](https://techcommunity.microsoft.com/t5/internet-of-things/community-tools-to-kick-start-your-azure-sphere-projects/ba-p/2554654/?ocid=AID3037590)
-
-:scroll:**Develop with Azure Digital Twins**
-
-Digital Twins is the new wave of innovation that helps unlock advanced scenarios in IoT and beyond, enabling you to evolve from connected assets to connected environments. [Learn how](https://docs.microsoft.com/en-us/learn/paths/develop-azure-digital-twins/?ocid=AID3037590)
-
-:cinema:**Microsoft Azure Defender for IoT: Deployment methodologies** 
-
-Learn how to deploy Azure Defender for IoT in an air-gapped environment, and as a cloud-connected solution. Join James Cabe and Anthony Bartolo as they walk through the steps. [Watch now](https://partner.microsoft.com/en-us/training/assets/detail/deployment-methodologies-mp4?ocid=AID3037590)
-
-:cinema:**Reactor Series - Hello IoT**
-
-Senior Cloud Advocate Jim Bennett covers IoT for Beginners in this 4-part Reactor series. Jim introduces IoT, devices and connectivity, and a review of related concepts. [Watch now]( https://developer.microsoft.com/en-us/reactor/eventseries/HelloIoT/?wt.mc_id=seriespg_13421_webpage_reactor?ocid=AID3037590)
-
-:scroll:**Azure Percept Audio - Home Automation with Azure Functions, Azure IoT Hub and Raspberry Pi**
-
-Delve into the world of home automation with Azure Percept, Azure Functions and IoT Hub. [Learn how](https://techcommunity.microsoft.com/t5/internet-of-things/azure-percept-audio-home-automation-with-azure-functions-azure/ba-p/2528048?ocid=AID3037590)
-
----
-
-:bookmark: ***Sign up for Microsoft Tech News** - the monthly newsletter for developers and tech professionals, tailored to your preferences. [Click here to sign up.](https://developer.microsoft.com/en-us/Newsletter/?ocid=AID3034986)*
+:bookmark: ***Sign up for Microsoft Tech News** - the monthly newsletter for developers and tech professionals, tailored to your preferences. [Click here to sign up.](https://developer.microsoft.com/en-us/Newsletter/?ocid=AID3039167)*
