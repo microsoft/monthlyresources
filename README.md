@@ -1,84 +1,100 @@
-SEPTEMBER RESOURCES FOR DEVELOPERS 
-# Java on Azure 
+OCTOBER RESOURCES FOR DEVELOPERS 
 
-:wave: **Hi everyone** – This month, we feature what’s new and what’s next in Java including Java on Azure Spring Cloud. Build and scale faster with Java on Azure using the tools you love. Explore the latest in Java demos, quick-start guides, integrations and more from Microsoft SMEs.
+# Kubernetes on Azure 
+
+ 
+
+:wave:**Hi everyone** – This month, we feature ways to optimize your Kubernetes deployments with Kubernetes on Azure. Explore the latest in Kubernetes and AKS demos, integrations and more from Microsoft SMEs. 
+
+ 
 
 *[- Monish Gangwani, Sr. Dev PMM](https://www.linkedin.com/in/monisg/)*   
 
+ 
+
+--- 
+
+### Featured Content for Kubernetes on Azure
+
+
+:cinema:**Project Design and Layout for Successful Kubernetes Applications** 
+
+ 
+
+Kubernetes co-founder Brendan Burns demos a file system layout to prep your app for Kubernetes and organize for a weekly or daily release. Learn how to structure your projects for Kubernetes. [Watch now](https://info.microsoft.com/ww-OnDemandRegistration-successful-kubernetes-applications-webinar.html?ocid=AID3041045) 
+
+ 
+
+:scroll:**Phippy Goes to the Zoo, a Kubernetes Story** 
+
+ 
+
+Not your usual ‘story book’! Join Phippy on an illustrated adventure as she takes her niece on a trip to the Kubernetes Zoo and learns about ingresses, CronJobs, CRDs, and more! [Join the adventure](https://azure.microsoft.com/mediahandler/files/resourcefiles/phippy-goes-to-the-zoo/Phippy%20Goes%20To%20The%20Zoo_MSFTonline.pdf?ocid=AID3041045) 
+
+ 
+
+:scroll:**What is Azure Arc enabled Kubernetes?** 
+
+ 
+
+Learn about the capabilities, agents and scenarios of Microsoft Azure Arc enabled Kubernetes in this overview. [Read now](https://docs.microsoft.com/azure/azure-arc/kubernetes/overview?WT.mc_id=modinfra-23499-thmaure?ocid=AID3041045) 
+
+ 
+
+:scroll:**Using Azure Dev Spaces to develop for Azure Kubernetes Service** 
+
+ 
+
+Azure Dev Spaces makes developing container-based solutions for Kubernetes a lot easier. Check out these tips on how to get started with .NET Core on Kubernetes with Azure Dev Spaces. [Get the tips](https://microsoft.github.io/AzureTipsAndTricks/blog/tip228.html?ocid=AID3041045) 
+
+ 
+
+:cinema:**AzureFunBytes – Azure Arc Enabled Data Services with Jay Gordon and Rob Sewell** 
+
+ 
+
+Azure Arc makes it possible to run Azure data services in your datacenter, at the edge, and in public clouds using Kubernetes and the infrastructure of your choice. Check out the AzureFunBytes episode, Azure Arc Enabled Data Services with Jay Gordon and Rob Sewell. [Watch now](https://devblogs.microsoft.com/devops/azurefunbytes-azure-arc-enabled-data-services-with-sqldbawithbeard?ocid=AID3041045) 
+
+ 
+
+:scroll:**Azure Kubernetes Service Workshop** 
+
+ 
+
+Expand your basic knowledge of Kubernetes — run through tasks to deploy a multi-container app on AKS in the Azure Kubernetes Service Workshop. [Get started](https://docs.microsoft.com/learn/modules/aks-workshop?ocid=AID3041045) 
+
+ 
+
+:scroll:**Introduction to Kubernetes on Azure** 
+
+ 
+
+Learn about the basics of Docker containers, container orchestration with Kubernetes, and managed clusters on Azure Kubernetes Service in this Introduction to Kubernetes on Azure. [Read about it](https://docs.microsoft.com/learn/paths/intro-to-kubernetes-on-azure?ocid=AID3041045) 
+
+ 
+
+:scroll:**Windows Server 2022 is Now Generally Available** 
+
+ 
+
+Windows Server 2022 is now Generally Available, and brings innovations to Windows Server container platform application compatibility, AKS support, and containerization tooling. [Learn more](https://techcommunity.microsoft.com/t5/containers/windows-server-2022-now-generally-available/ba-p/2689973?ocid=AID3041045) 
+
+ 
+
+:cinema:**A closer look into Azure Migrate App Containerization** 
+
+ 
+
+App Containerization provides an end-to-end solution for developers containerizing existing applications currently deployed on Web Servers — with minimal effort and no code changes. [Read the blog and watch the video](https://techcommunity.microsoft.com/t5/containers/a-closer-look-into-azure-migrate-app-containerization/ba-p/2543797?ocid=AID3041045) 
+
+ 
+
+:scroll:**Get up and running with Kubernetes** 
+
+ 
+
+Learn the basics of Kubernetes and discover how to easily deploy and manage containers at scale with Kubernetes on Azure. Download this Kubernetes collection with multiple resources to get started. [Get the bundle](https://azure.microsoft.com/resources/kubernetes-ebook-collection?ocid=AID3041045) 
+
 ---
 
-## Featured Content for Java on Azure
-
-
-:scroll:**Java on Azure learning path** 
-
-Learn how you can build, migrate and scale Java applications on Azure. Use tools and frameworks that you know and love – Spring, Tomcat, WildFly, JBoss, WebLogic, WebSphere, Maven, Gradle, and more. [Start here.](https://docs.microsoft.com/learn/paths/java-on-azure/?ocid=AID3039167) 
-
- 
-
-:cinema:**Microsoft Reactor Event Series: DevOps for Java Shops** 
-
-Learn new ways to reliably make updates and maintain cloud code. Brian Benz and Rory Preddy demo real-world examples using Linux command line tools, open-source tools including Jenkins, and free SDKs on GitHub. [Watch now.](https://developer.microsoft.com/reactor/eventseries/devopsjavashops/?ocid=AID3039167)   
-
- 
-
-:scroll:**Open JDK overview** 
-
- 
-The Microsoft Build of OpenJDK is a no-cost distribution of OpenJDK that is open source and available for anyone to deploy anywhere. If you're a Microsoft Azure customer, you can [try it now for free.](https://docs.microsoft.com/java/openjdk/overview/?ocid=AID3039167) 
-
- 
-
-:scroll:**Quickstart: Create a Java app on Azure App Service**  
-
- 
-
-Learn how to use the Azure CLI with the Azure Web App Plugin for Maven to deploy a .jar file, or .war file with AzureAppService. If you don't have an Azure subscription, create a free account before you begin. [View the guide.](https://docs.microsoft.com/azure/app-service/quickstart-java?tabs=tomcat&pivots=platform-linux/?ocid=AID3039167)  
-
- 
-
-:scroll:**Java-to-Azure migration docs**  
-
- 
-
-Discover recommended strategies for migrating Java applications to Azure. This Azure documentation covers general migration and specific workloads including Spring, Tomcat, WebLogic, WildFly, WebSphere and JBoss EA. [Browse the docs.](https://docs.microsoft.com/azure/developer/java/migration/?ocid=AID3039167) 
-
- 
-
-:scroll:**Full Gradle support to deploy your Java App to Azure**  
-
- 
-
-Now you can use Gradle to deploy your Java apps to Azure App Service or Azure Functions. You can package a Java Functions/Webapp project, run it locally, or deploy it to Azure with tasks provided by this plugin. [Check it out.](https://github.com/microsoft/azure-gradle-plugins/?ocid=AID3039167) 
-
- 
-
-:scroll:**Choose the right Azure service for deploying your Java application** 
-
-Follow this learning path to explore service options for deploying Java applications to Azure and discover the one that best addresses your team's needs. [Learn more.](https://docs.microsoft.com/learn/modules/java-target-destinations/?ocid=AID3039167) 
-
- 
-
-:scroll:**Use the Azure SDK for Java** 
-
-
-Kickstart your cloud-enabled Java apps using the latest unified SDKs. These open-source Azure SDKs for Java simplify provisioning, managing, and using Azure resources from Java application code — streamlining cloud development. [Check them out.](https://docs.microsoft.com/azure/developer/java/sdk/overview/?ocid=AID3039167) 
-
-
-:scroll:**Azure Spring Cloud reference architecture**  
-
-Architect Azure Spring Cloud using a typical enterprise hub and spoke design, with security controls from the Cloud Control Matrix and the Microsoft Azure Foundations Benchmark. [Learn how.](https://docs.microsoft.com/azure/spring-cloud/reference-architecture/?ocid=AID3039167) 
-
- 
-:scroll:**30 Days to Learn It: Java on Azure Developer** 
-
-Learn how to build and scale Java applications on Azure in 30 days. Develop modern Java applications in the cloud with managed databases, DevOps services, and more. [Start the challenge.](https://docs.microsoft.com/en-us/learn/challenges?id=169a2977-dccc-4e6c-9990-1dde71b456b8/?ocid=AID3039167) 
-
- 
-:scroll:**Quickstart: Deploy your first Azure Spring Cloud application**  
-
-Deploy a simple Azure Spring Cloud microservice application to run on Azure. Your application will be accessible online when completed and can be managed via the Azure portal. [Try it now.](https://docs.microsoft.com/azure/spring-cloud/quickstart?tabs=Azure-CLI&pivots=programming-language-java/?ocid=AID3039167) 
-
----
-
-:bookmark: ***Sign up for Microsoft Tech News** - the monthly newsletter for developers and tech professionals, tailored to your preferences. [Click here to sign up.](https://developer.microsoft.com/en-us/Newsletter/?ocid=AID3039167)*
+:bookmark: ***Sign up for Microsoft Tech News** - the monthly newsletter for developers and tech professionals, tailored to your preferences. [Click here to sign up.](https://developer.microsoft.com/en-us/Newsletter/?ocid=AID3041045)*
