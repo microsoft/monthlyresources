@@ -16,6 +16,15 @@ OCTOBER RESOURCES FOR DEVELOPERS
 
 ### Featured Content for Kubernetes on Azure
 
+:scroll:**Meet Kubernetes Expert, Hamida Rebai Trabelsi** 
+
+
+From a classroom full of boys in Tunisia, to Software Architect and Cloud Expert on Canada’s Revenu Cloud Migration team, learn more about Hamida Rebai’s journey of perseverance and her insights on Kubernetes. [Meet Hamida](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/from-tunisian-classroom-full-of-boys-to-architect-for-canadian/ba-p/2783379?ocid=AID3041045) 
+
+:scroll:**New releases in container configuration—Kubernetes on Azure**  
+
+Achieve compliance and organizational requirements, while adopting cloud-native technology — Ahmed Sabbour shares some of the latest updates to Azure Kubernetes Service and Azure Red Hat OpenShift. [Read the blog](https://techcommunity.microsoft.com/t5/apps-on-azure/new-releases-in-container-configuration-kubernetes-on-azure/ba-p/2788993#M496?ocid=AID3041045)
+
 
 :cinema:**Project Design and Layout for Successful Kubernetes Applications** 
 
