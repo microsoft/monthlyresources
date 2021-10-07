@@ -50,14 +50,6 @@ Learn about the capabilities, agents and scenarios of Microsoft Azure Arc enable
 
  
 
-:scroll:**Using Azure Dev Spaces to develop for Azure Kubernetes Service** 
-
- 
-
-Azure Dev Spaces makes developing container-based solutions for Kubernetes a lot easier. Check out these tips on how to get started with .NET Core on Kubernetes with Azure Dev Spaces. [Get the tips](https://microsoft.github.io/AzureTipsAndTricks/blog/tip228.html?ocid=AID3041045) 
-
- 
-
 :cinema:**AzureFunBytes – Azure Arc Enabled Data Services with Jay Gordon and Rob Sewell** 
 
  
