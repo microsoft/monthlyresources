@@ -14,7 +14,7 @@ NOVEMBER RESOURCES FOR DEVELOPERS
 
 --- 
 
- ### Featured Content on Visual Studio 2022 and .NET 6  
+### Featured Content on .NET 6 and Visual Studio 2022
 
  
 
@@ -50,7 +50,7 @@ Bring your ideas to life with Visual Studio 2022 ― an #IDE that empowers you w
 
  
 
-scroll:**Attend a .NET Conf Local Community Event** 
+:scroll:**Attend a .NET Conf Local Community Event** 
 
  
 
@@ -58,7 +58,7 @@ scroll:**Attend a .NET Conf Local Community Event**
 
  
 
-scroll:**CODE Magazine Focus Issue: .NET 6** 
+:scroll:**CODE Magazine Focus Issue: .NET 6** 
 
  
 
