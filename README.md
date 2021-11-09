@@ -1,10 +1,10 @@
-OCTOBER RESOURCES FOR DEVELOPERS 
+NOVEMBER RESOURCES FOR DEVELOPERS 
 
-# Kubernetes on Azure 
+# .NET 6 and Visual Studio 2022 
 
  
 
-:wave:**Hi everyone** – This month, we feature ways to optimize your Kubernetes deployments with Kubernetes on Azure. Explore the latest in Kubernetes and AKS demos, integrations and more from Microsoft SMEs. 
+:wave:**Hi everyone** – This month, we are featuring exciting new Visual Studio and .NET releases! Explore the latest in software development by way of new learning content, demos, and discussions from Microsoft SMEs. 
 
  
 
@@ -14,87 +14,95 @@ OCTOBER RESOURCES FOR DEVELOPERS
 
 --- 
 
-### Featured Content for Kubernetes on Azure
-
-:scroll:**Meet Kubernetes Expert, Hamida Rebai Trabelsi** 
-
-
-From a classroom full of boys in Tunisia, to Software Architect and Cloud Expert on Canada’s Revenu Cloud Migration team, learn more about Hamida Rebai’s journey of perseverance and her insights on Kubernetes. [Meet Hamida](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/from-tunisian-classroom-full-of-boys-to-architect-for-canadian/ba-p/2783379?ocid=AID3041045) 
-
-:scroll:**New releases in container configuration—Kubernetes on Azure**  
-
-Achieve compliance and organizational requirements, while adopting cloud-native technology — Ahmed Sabbour shares some of the latest updates to Azure Kubernetes Service and Azure Red Hat OpenShift. [Read the blog](https://techcommunity.microsoft.com/t5/apps-on-azure/new-releases-in-container-configuration-kubernetes-on-azure/ba-p/2788993#M496?ocid=AID3041045)
-
-
-:cinema:**Project Design and Layout for Successful Kubernetes Applications** 
+ ### Featured Content on Visual Studio 2022 and .NET 6  
 
  
 
-Kubernetes co-founder Brendan Burns demos a file system layout to prep your app for Kubernetes and organize for a weekly or daily release. Learn how to structure your projects for Kubernetes. [Watch now](https://info.microsoft.com/ww-OnDemandRegistration-successful-kubernetes-applications-webinar.html?ocid=AID3041045) 
+:scroll:**Visual Studio 2022 Launch Event** 
 
  
 
-:scroll:**Phippy Goes to the Zoo, a Kubernetes Story** 
+Watch the Visual Studio launch event on demand! Learn about what’s new with Visual Studio 2022, hear tips & tricks from experts, and participate in the live Q&As. [Register today](https://aka.ms/vs2022launch?ocid=AID3041902) 
 
  
 
-Not your usual ‘story book’! Join Phippy on an illustrated adventure as she takes her niece on a trip to the Kubernetes Zoo and learns about ingresses, CronJobs, CRDs, and more! [Join the adventure](https://azure.microsoft.com/mediahandler/files/resourcefiles/phippy-goes-to-the-zoo/Phippy%20Goes%20To%20The%20Zoo_MSFTonline.pdf?ocid=AID3041045) 
+:scroll:**.NET Conf 2021** 
 
  
 
-:scroll:**What is Azure Arc enabled Kubernetes?** 
+.NET Conf 2021 is a free three-day virtual developer event Nov 9-11 that features major releases of the .NET development platform. Come celebrate with SMEs including Scott Hanselman and Maria Naggaga, and learn what you can do with .NET 6! [Register here](https://www.dotnetconf.net/?ocid=AID3041902) 
 
  
 
-Learn about the capabilities, agents and scenarios of Microsoft Azure Arc enabled Kubernetes in this overview. [Read now](https://docs.microsoft.com/azure/azure-arc/kubernetes/overview?WT.mc_id=modinfra-23499-thmaure?ocid=AID3041045) 
+:scroll:**Modernize Apps and Data with Azure and Power Apps** 
 
  
 
-:cinema:**AzureFunBytes – Azure Arc Enabled Data Services with Jay Gordon and Rob Sewell** 
+Learn best practices for modernizing your applications and data with Azure in this virtual event featuring data and dev experts in six 30-minute workshops, including hands-on Azure demos. [View on demand](https://info.microsoft.com/ww-landing-modernize-apps-and-data-with-azure-and-power-apps.html?ocid=AID3041902) 
 
  
 
-Azure Arc makes it possible to run Azure data services in your datacenter, at the edge, and in public clouds using Kubernetes and the infrastructure of your choice. Check out the AzureFunBytes episode, Azure Arc Enabled Data Services with Jay Gordon and Rob Sewell. [Watch now](https://devblogs.microsoft.com/devops/azurefunbytes-azure-arc-enabled-data-services-with-sqldbawithbeard?ocid=AID3041045) 
+:scroll:**Visual Studio 2022 announcement** 
 
  
 
-:scroll:**Azure Kubernetes Service Workshop** 
+Bring your ideas to life with Visual Studio 2022 ― an #IDE that empowers you with improved scalability and capability for developers. [Try it out today](https://aka.ms/vs2022gablog?ocid=AID3041902) 
 
  
 
-Expand your basic knowledge of Kubernetes — run through tasks to deploy a multi-container app on AKS in the Azure Kubernetes Service Workshop. [Get started](https://docs.microsoft.com/learn/modules/aks-workshop?ocid=AID3041045) 
+scroll:**Attend a .NET Conf Local Community Event** 
 
  
 
-:scroll:**Introduction to Kubernetes on Azure** 
+34 organizers around the globe bring you .NET Conf 2021 community events Nov. 9, 2021 - Jan. 31, 2022. Join fellow #developers in your local time zone and language to learn even more about .NET! [Sign up in your area](https://www.dotnetconf.net/local-events?ocid=AID3041902) 
 
  
 
-Learn about the basics of Docker containers, container orchestration with Kubernetes, and managed clusters on Azure Kubernetes Service in this Introduction to Kubernetes on Azure. [Read about it](https://docs.microsoft.com/learn/paths/intro-to-kubernetes-on-azure?ocid=AID3041045) 
+scroll:**CODE Magazine Focus Issue: .NET 6** 
 
  
 
-:scroll:**Windows Server 2022 is Now Generally Available** 
+Learn all about the .NET 6 release and what’s new in Visual Studio 2022 for .NET developers in this special issue of CODE Magazine. [Read now](https://aka.ms/dotnet6-code-mag?ocid=AID3041902) 
 
  
 
-Windows Server 2022 is now Generally Available, and brings innovations to Windows Server container platform application compatibility, AKS support, and containerization tooling. [Learn more](https://techcommunity.microsoft.com/t5/containers/windows-server-2022-now-generally-available/ba-p/2689973?ocid=AID3041045) 
+:scroll:**.NET 6 announcement** 
 
  
 
-:cinema:**A closer look into Azure Migrate App Containerization** 
+It is ready for your app — over a year in the making, we are very happy to release .NET 6 and a higher performance web stack to simplify and speed up development! [Learn more](https://aka.ms/dotnet6-GA?ocid=AID3041902) 
 
  
 
-App Containerization provides an end-to-end solution for developers containerizing existing applications currently deployed on Web Servers — with minimal effort and no code changes. [Read the blog and watch the video](https://techcommunity.microsoft.com/t5/containers/a-closer-look-into-azure-migrate-app-containerization/ba-p/2543797?ocid=AID3041045) 
+:scroll:**Introducing the .NET MAUI Community Toolkit** 
 
  
 
-:scroll:**Get up and running with Kubernetes** 
+The .NET MAUI Markup Community Toolkit houses Fluent C# Extension Methods for developers to architect apps with MVVM, Bindings, Resource Dictionaries, etc., without the need for XAML. [Read the blog](https://aka.ms/contribute-to-maui-toolkit?ocid=AID3041902) 
 
  
 
-Learn the basics of Kubernetes and discover how to easily deploy and manage containers at scale with Kubernetes on Azure. Download this Kubernetes collection with multiple resources to get started. [Get the bundle](https://azure.microsoft.com/resources/kubernetes-ebook-collection?ocid=AID3041045) 
+:scroll:**Reactor Ask the Expert: .NET Conf Highlights and Recap with Jeff Fritz** 
+
+ 
+
+Join .NET expert Jeff Fritz on 11/17 as he recaps important updates from .NET Conf 2021 including C# 10, Blazor, and .NET MAUI. [Register today](https://developer.microsoft.com/reactor/eventregistration/register/14559?ocid=AID3041902) 
+
+ 
+
+:scroll:**Create a web UI with ASP.NET Core** 
+
+ 
+
+Learn how to create web pages using Razor with ASP.NET Core in this Microsoft learning path. [Get started today](https://docs.microsoft.com/learn/modules/create-razor-pages-aspnet-core/?ocid=AID3041902) 
+
+ 
+
+:cinema:**Let's Learn .NET - Machine Learning** 
+
+ 
+
+ML.NET is an open-source, cross-platform machine learning framework for .NET developers. Learn fundamentals and see something that we built together ― live with experts Bri Achtman and Jayme Singleton. [Watch now](https://channel9.msdn.com/Shows/lets-learn-dotnet/Machine-Learning?ocid=AID3041902) 
 
 ---
 
