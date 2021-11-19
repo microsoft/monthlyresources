@@ -102,7 +102,31 @@ Learn how to create web pages using Razor with ASP.NET Core in this Microsoft le
 
  
 
-ML.NET is an open-source, cross-platform machine learning framework for .NET developers. Learn fundamentals and see something that we built together ― live with experts Bri Achtman and Jayme Singleton. [Watch now](https://channel9.msdn.com/Shows/lets-learn-dotnet/Machine-Learning?ocid=AID3041902) 
+ML.NET is an open-source, cross-platform machine learning framework for .NET developers. Learn fundamentals and see something that we built together ― live with experts Bri Achtman and Jayme Singleton. [Watch now](https://channel9.msdn.com/Shows/lets-learn-dotnet/Machine-Learning?ocid=AID3041902)
+
+:cinema:**Azure Friday - Deploy OpenAPI enabled Azure Functions with .NET in Visual Studio** 
+
+ 
+
+Watch Scott Hanselman & Justin Yoo talk OpenAPI enabled AzureFunctions with .NET in Visual Studio in Azure Friday: Deploy OpenAPI enabled Azure Functions with .NET in Visual Studio. [View on demand](https://aka.ms/azfr/705?ocid=AID3041902) 
+
+ 
+
+:scroll:**Build Web Applications with Blazor** 
+
+ 
+
+Build applications with components, layouts, and the razor templating language in Blazor’s C#-friendly user interface framework. [Start learning today]( https://docs.microsoft.com/learn/paths/build-web-apps-with-blazor?ocid=AID3041902) 
+
+ 
+
+:scroll:**General Availability of Azure Functions OpenAPI Extension** 
+
+ 
+
+You can create OpenAPI enabled Azure Functions with .NET, allowing others to easily consume your work. Justin Yoo shows you how to do this using a new extension for AzureFunctions and .NET 6. [Read the blog](https://techcommunity.microsoft.com/t5/apps-on-azure/general-availability-of-azure-functions-openapi-extension/ba-p/2931231?ocid=AID3041902) 
+
+ 
 
 ---
 
