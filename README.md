@@ -108,7 +108,7 @@ ML.NET is an open-source, cross-platform machine learning framework for .NET dev
 
  
 
-Watch Scott Hanselman & Justin Yoo talk OpenAPI enabled AzureFunctions with .NET in Visual Studio in Azure Friday: Deploy OpenAPI enabled Azure Functions with .NET in Visual Studio. [View on demand](https://aka.ms/azfr/705?ocid=AID3041902) 
+Watch Scott Hanselman & Justin Yoo talk OpenAPI enabled AzureFunctions with .NET in Visual Studio in Azure Friday: Deploy OpenAPI enabled Azure Functions with .NET in Visual Studio. [View on demand](https://www.youtube.com/watch?v=mBCRxaKMeWM?ocid=AID3041902) 
 
  
 
