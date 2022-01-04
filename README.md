@@ -1,120 +1,98 @@
-DECEMBER RESOURCES FOR DEVELOPERS 
+JANUARY RESOURCES FOR DEVELOPERS 
 
-# Best of Microsoft Ignite 2021 and more
-
- 
-
-**Hi everyone** – Wrap up 2021 with the best developer content from Microsoft Ignite and end of year retrospect features including learning content, demos and discussions from Microsoft SMEs. 
+# DevOps and DevSecOps
 
  
 
-*[- Monish Gangwani, Sr. Dev PMM](https://www.linkedin.com/in/monisg/)*   
+Start 2022 off with the best in DevOps and DevSecOps learning content, discussions, and events— with best practices to automate and secure code, workflows, and infrastructure in Azure. 
 
  
 
 --- 
-### Featured Content from Microsoft Ignite 2021 and more
 
-
- 
-
-:scroll:**Azure Friday: The year in retrospect** 
+### Featured Content on DevOps and DevSecOps
 
  
 
-Reflections from Rob Caron on some of the most fun and informative 2021 moments from Azure Friday, the popular podcast for developers. [Check it out](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/azure-friday-the-year-in-retrospect/ba-p/3015107?ocid=AID3043434) 
+:scroll:**Create a project in Azure DevOps** 
 
  
 
-:cinema:**Into Focus: Digital & Application Innovation** 
+Learn how to use Azure DevOps to create a project and establish a repository for source code. You can manage and structure each project to support your business needs. [Explore the doc](https://docs.microsoft.com/azure/devops/organizations/projects/create-project?view=azure-devops&tabs=preview-page?ocid=AID3044106) 
 
  
 
-Learn about building modern cloud-native applications plus strategies and Microsoft programs to help deliver innovative capabilities faster with existing applications — going from code to #cloud with resiliency. [Watch now](https://myignite.microsoft.com/sessions/9c12d736-4ecc-4075-b6a4-5b1fa8ec665e?ocid=AID3043434) 
+:scroll:**Register for SaaS Academy I Scaling your SaaS application with DevOps** 
 
  
 
- 
-
-:scroll:**Ignite 2021 - The do not miss list for app developers** 
+Are you a developer interested in scaling your SaaS application? Hear from GitHub's Dave Burnison on fundamentals of using GitHub, GitHub Codespaces, and VS Code in your SaaS application to scale successfully. [Register for the live event](https://www.meetup.com/Microsoft-Reactor-London/events/280894227/?ocid=AID3044106) 
 
  
 
-Microsoft Ignite 2021 fall edition was full of dev news and announcements you don’t want to miss! For everything related to App development and innovation — [read the blog.](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/ignite-2021-the-do-not-miss-list-for-app-developers/ba-p/2955457?ocid=AID3043434) 
+:cinema:**Watch DevOps Lab | What's New in DevOps at GitHub Universe** 
 
  
 
-:cinema:**Build a basic cloud-native service using PostgreSQL and Node.js** 
+Damian Brady is back with exciting announcements from GitHub Universe! He shares with April Edwards what's new in GitHub Issues, Copilot and GitHub Enterprise, and more. [Watch now](https://docs.microsoft.com/shows/devops-lab/whats-new-in-devops-at-github-universe?ocid=AID3044106) 
 
  
 
-By leveraging managed database services such as Azure Database for PostgreSQL, you can become more focused in developing your cloud-native applications. Learn the how and why from Scott Coulton and Glaucia Lemos. [Watch now](https://myignite.microsoft.com/sessions/272f839f-ce11-4cb9-9a7c-4ca9d39eac30?ocid=AID3043434) 
+:scroll:**Build secure apps on hardened dev environments with secure DevOps workflows** 
 
  
 
-:scroll:**What's new in Azure App Service - Fall Ignite 2021 Edition!** 
+As hackers shift toward compromising upstream dependencies and systems, entire dev environments and software supply chains are impacted. Learn ways to secure developer machines and interaction with non-trusted code. [Read the blog](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/build-secure-apps-on-hardened-dev-environments-with-secure/ba-p/2893917?ocid=AID3044106) 
 
  
 
-Windows Containers are now GA and available on App Service Environment v3! App Service is also announcing the GA of Azure Monitor Logs integration for both Linux and Windows customers. [Read about it](https://techcommunity.microsoft.com/t5/apps-on-azure/what-s-new-in-azure-app-service-fall-ignite-2021-edition/ba-p/2901581?ocid=AID3043434) 
+:scroll:**The Developer’s Guide to Azure** 
 
  
 
-:cinema:**Build secure apps with collaborative DevSecOps practices** 
+Learn how to get up and running on any project in minutes with fully configured, secure, cloud-hosted development environments and discover how to get the most from key Azure services. [Get the guide](https://azure.microsoft.com/campaigns/developer-guide/?ocid=AID3044106) 
 
  
 
-Foster collaboration between the DevOps and SecOps teams — learn from Jessica Deen and Lavanya Kasarabada how Microsoft’s unified solution combines GitHub and Azure to empower your development teams to securely deliver innovative apps at DevOps speed. [View on demand](https://myignite.microsoft.com/sessions/0c2b0490-1e47-4144-a569-20632ea53661?ocid=AID3043434) 
+:scroll:**Security Control v3: DevOps Security** 
 
  
 
-:scroll:**Innovate with cloud-native apps and open source on Azure** 
+Discover DevOps Security Principles covering controls related to DevOps processes, including deployment of critical security checks prior to the deployment phase, plus common topics such as threat modeling and software supply security. [Read the article](https://docs.microsoft.com/security/benchmark/azure/security-controls-v3-devops-security?ocid=AID3044106) 
 
  
 
-Brendan Burns shares how Microsoft is empowering you to innovate with cloud-native and open source on Azure with AKS, Azure Container Apps, and more. [Read the blog](https://azure.microsoft.com/blog/innovate-with-cloudnative-apps-and-open-source-on-azure/?ocid=AID3043434) 
+:scroll:**DevOps Engineer Cloud Skills Challenge** 
 
  
 
-:scroll:**Announcing the Public Preview of Azure Chaos Studio** 
+Set a goal, increase your understanding of bleeding-edge DevOps technology, and gain marketable skills to better your career. Start the 30-day DevOps Engineer Cloud Skills Challenge today! [Learn more](https://docs.microsoft.com/learn/challenges?id=8351edfe-a67a-46d4-81cd-6439844b72ac?ocid=AID3044106) 
 
  
 
-With Chaos Studio you can practice chaos engineering: a method of experimenting with controlled fault injection against your apps to help measure, understand, and improve resilience against real-world incidents. [Learn more](https://techcommunity.microsoft.com/t5/azure-governance-and-management/announcing-the-public-preview-of-azure-chaos-studio/ba-p/2893050?ocid=AID3043434) 
+:cinema:**Best Practices for Integrating Security with DevOps** 
 
  
 
-:scroll:**Introducing Azure Container Apps: a serverless container service for running modern apps at scale** 
+Learn how to develop cross-function collaboration and unite developer, security, and operations teams around the culture of security as a shared responsibility. Microsoft, GitHub, and Sogeti experts show you how. [Watch on demand](https://info.microsoft.com/ww-ondemand-best-practices-for-integrating-security-with-devops.html?ocid=AID3044106) 
 
  
 
-Azure Container Apps, a new serverless application centric hosting service, enables executing of application code packaged in any container and is unopinionated about runtime or programming model. [Learn how](https://techcommunity.microsoft.com/t5/apps-on-azure/introducing-azure-container-apps-a-serverless-container-service/ba-p/2867265?ocid=AID3043434) 
+:cinema:**DevOps Lab | Increasing Collaboration with Communication: GitHub and Microsoft Teams** 
 
  
 
-:cinema:**Innovate with cloud-native apps and open source on Azure** 
+Jay Gorgon returns to DevOps Lab with April Edwards to walk us through how to use Microsoft Teams to streamline communication when changes to GitHub repos occur. Catch the demos on how to improve collaboration and efficiency with these tools. [View on demand](https://docs.microsoft.com/shows/devops-lab/devops-lab--increasing-collaboration-with-communication-github-and-microsoft-teams?ocid=AID3044106) 
 
  
 
-Phillip Gibson and Jeff Hollan deliver insights and demos from Microsoft’s full spectrum of cloud native applications and open source on Azure. Learn about our latest innovation on containers and serverless. [Watch the video](https://myignite.microsoft.com/sessions/64ad9ab4-31aa-410a-b5a0-792c9318eb90?ocid=AID3043434) 
+:scroll:**New Year, New Opportunities: Blast off with Microsoft Learn in 2022!** 
 
  
 
-:scroll:**An airline pilot develops a robotic arm for his friend’s son using .NET and a 3D printer** 
+Discover the best ways to get ahead in tech in 2022 with these developer learning resources curated by Chris Noring. [Read the blog](https://techcommunity.microsoft.com/t5/educator-developer-blog/get-ahead-in-2022-developer-learning-opportunities-from/ba-p/3050795?WT.mc_id=academic-52688-chnoring) 
 
  
-
-When a family friend asked Cliff Agius for help improving her son’s prosthetic arm, the 787 pilot/freelance developer used open-source software to build a new arm for the teen. [Read the blog](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/an-airline-pilot-develops-a-robotic-arm-for-his-friend-s-son/ba-p/3015347?ocid=AID3043434) 
-
- 
-
- 
-
-:scroll:**Do the #Code4Good thing—make the world a better place** 
-
- 
-
-Michelle Sandford shares why she does the #Code4Good thing, and awesome ways you can use your tech skills to make the world a better place, too. [Read the blog](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/do-the-code4good-thing-make-the-world-a-better-place/ba-p/3016575?ocid=AID3043434) 
 
  
 
@@ -122,4 +100,4 @@ ___
 
  
 
-:bookmark: ***Sign up for Microsoft Tech News** - the monthly newsletter for developers and tech professionals, tailored to your preferences. [Click here to sign up.](https://developer.microsoft.com/Newsletter/?ocid=AID3043434)* 
+:bookmark: ***Sign up for Microsoft Tech News** - the monthly newsletter for developers and tech professionals, tailored to your preferences. [Click here to sign up.](https://developer.microsoft.com/Newsletter/?ocid=AID3044106)* 
