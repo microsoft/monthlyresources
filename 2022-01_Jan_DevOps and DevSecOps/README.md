@@ -1,103 +1,98 @@
-FEBRUARY RESOURCES FOR DEVELOPERS 
+JANUARY RESOURCES FOR DEVELOPERS 
 
-# Low Code and Power Apps 
+# DevOps and DevSecOps
 
  
 
-Explore the latest in Low Code app development. Learn how to build faster with less code in Power Apps, and scale and extend those apps with Azure services. 
+Start 2022 off with the best in DevOps and DevSecOps learning content, discussions, and events— with best practices to automate and secure code, workflows, and infrastructure in Azure. 
 
  
 
 --- 
 
-### Featured Content on Low Code and Power Apps 
+### Featured Content on DevOps and DevSecOps
 
  
 
-:scroll:**Microsoft Power Platform Virtual Training Day: App Maker** 
+:scroll:**Create a project in Azure DevOps** 
 
  
 
-Learn strategies to improve your basic data modelling techniques, user experience design, process analysis, and more. [Register now](https://mktoevents.com/Microsoft+Event/311523/157-GQE-382?ocid=AID3045262) 
+Learn how to use Azure DevOps to create a project and establish a repository for source code. You can manage and structure each project to support your business needs. [Explore the doc](https://docs.microsoft.com/azure/devops/organizations/projects/create-project?view=azure-devops&tabs=preview-page?ocid=AID3044106) 
 
  
 
-:scroll:**Understanding Low Code as a Traditional Developer** 
+:scroll:**Register for SaaS Academy I Scaling your SaaS application with DevOps** 
 
  
 
-Learn how Power Apps work, what the formula language is, and how to create an app using PowerApps in this low-code training module for traditional developers. [Start learning](https://docs.microsoft.com/learn/modules/understanding-low-code-as-a-traditional-developer?ocid=AID3045262) 
+Are you a developer interested in scaling your SaaS application? Hear from GitHub's Dave Burnison on fundamentals of using GitHub, GitHub Codespaces, and VS Code in your SaaS application to scale successfully. [Register for the live event](https://www.meetup.com/Microsoft-Reactor-London/events/280894227/?ocid=AID3044106) 
 
  
 
-:cinema:**Power Up Your Development with Power Automate and Power Apps** 
+:cinema:**Watch DevOps Lab | What's New in DevOps at GitHub Universe** 
 
  
 
-Supercharge everyday tasks with Power Automate. Learn about Fusion Development teams, and how to make your web APIs and Azure Functions available to Power Apps devs through custom connectors. [Watch the video](https://docs.microsoft.com/events/dotnetconf-2021/power-up-your-development-with-power-automate-and-power-apps?ocid=AID3045262) 
+Damian Brady is back with exciting announcements from GitHub Universe! He shares with April Edwards what's new in GitHub Issues, Copilot and GitHub Enterprise, and more. [Watch now](https://docs.microsoft.com/shows/devops-lab/whats-new-in-devops-at-github-universe?ocid=AID3044106) 
 
  
 
-:scroll:**What's new and planned for Power Apps** 
+:scroll:**Build secure apps on hardened dev environments with secure DevOps workflows** 
 
  
 
-Build advanced apps, collaborate with fusion teams, and roll out world-class experiences for users. Learn what's new and what’s coming soon for Power Apps in this list of planned releases through March 2022. [Read the doc](https://docs.microsoft.com/power-platform-release-plan/2021wave2/power-apps/planned-features?ocid=AID3045262) 
+As hackers shift toward compromising upstream dependencies and systems, entire dev environments and software supply chains are impacted. Learn ways to secure developer machines and interaction with non-trusted code. [Read the blog](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/build-secure-apps-on-hardened-dev-environments-with-secure/ba-p/2893917?ocid=AID3044106) 
 
  
 
-:scroll:**Power Apps portals as mobile apps (preview)** 
+:scroll:**The Developer’s Guide to Azure** 
 
  
 
-Announcing the upcoming capability of Power Apps portals as a progressive web app — enabling makers to enable portals into apps with native app-like look and feel right from portal studio in just few steps! [Learn more](https://powerapps.microsoft.com/blog/power-apps-portals-as-mobile-apps-preview/?ocid=AID3045262) 
+Learn how to get up and running on any project in minutes with fully configured, secure, cloud-hosted development environments and discover how to get the most from key Azure services. [Get the guide](https://azure.microsoft.com/campaigns/developer-guide/?ocid=AID3044106) 
 
  
 
-:cinema:**Join the dotNET Loves Me party!** 
-  
-
-Watch the stream for .NET 20th anniversary on February 14th and have fun in our live chat during the broadcast. [Watch it](https://dotnet.microsoft.com/?ocid=AID3045262) 
+:scroll:**Security Control v3: DevOps Security** 
 
  
 
-:scroll:**Accelerate innovation with low-code applications using Power Platform** 
+Discover DevOps Security Principles covering controls related to DevOps processes, including deployment of critical security checks prior to the deployment phase, plus common topics such as threat modeling and software supply security. [Read the article](https://docs.microsoft.com/security/benchmark/azure/security-controls-v3-devops-security?ocid=AID3044106) 
 
  
 
-By connecting your pro developers with citizen developers and IT teams, Microsoft Power Platform can increase your organization’s low-code application development value with faster ROI and time to market, at lower cost. [Read about it](https://cloudblogs.microsoft.com/powerplatform/2021/11/02/accelerate-innovation-with-low-code-applications-using-power-platform/?ocid=AID3045262) 
+:scroll:**DevOps Engineer Cloud Skills Challenge** 
 
  
 
-:scroll:**Microsoft Certified: Power Platform Fundamentals** 
+Set a goal, increase your understanding of bleeding-edge DevOps technology, and gain marketable skills to better your career. Start the 30-day DevOps Engineer Cloud Skills Challenge today! [Learn more](https://docs.microsoft.com/learn/challenges?id=8351edfe-a67a-46d4-81cd-6439844b72ac?ocid=AID3044106) 
 
  
 
-Accelerate your progress and give your career a boost, with Microsoft Power Platform skills to improve your team’s productivity. [Get certified](https://docs.microsoft.com/learn/certifications/power-platform-fundamentals/?ocid=AID3045262) 
+:cinema:**Best Practices for Integrating Security with DevOps** 
 
  
 
-:scroll:**What's new and planned for Microsoft Power Platform pro development** 
+Learn how to develop cross-function collaboration and unite developer, security, and operations teams around the culture of security as a shared responsibility. Microsoft, GitHub, and Sogeti experts show you how. [Watch on demand](https://info.microsoft.com/ww-ondemand-best-practices-for-integrating-security-with-devops.html?ocid=AID3044106) 
 
  
 
-Check out what's new and planned for Microsoft Power Platform pro development — this doc lists the features planned to be released through March 2022. [Check it out](https://docs.microsoft.com/power-platform-release-plan/2021wave2/power-platform-pro-development/planned-features?ocid=AID3045262) 
+:cinema:**DevOps Lab | Increasing Collaboration with Communication: GitHub and Microsoft Teams** 
 
  
 
-:cinema:**Building Power Apps that are Accessible for All** 
+Jay Gorgon returns to DevOps Lab with April Edwards to walk us through how to use Microsoft Teams to streamline communication when changes to GitHub repos occur. Catch the demos on how to improve collaboration and efficiency with these tools. [View on demand](https://docs.microsoft.com/shows/devops-lab/devops-lab--increasing-collaboration-with-communication-github-and-microsoft-teams?ocid=AID3044106) 
 
  
 
-Kristine Kolodziejsk shares tips and tricks with April Dunnam for building inclusive and accessible Power Apps for all! [Watch the video](https://docs.microsoft.com/shows/the-low-code-revolution/building-power-apps-that-are-accessible-for-all?ocid=AID3045262) 
+:scroll:**New Year, New Opportunities: Blast off with Microsoft Learn in 2022!** 
 
  
 
-:cinema:**Hello World, Let’s Explore The Power Platform** 
+Discover the best ways to get ahead in tech in 2022 with these developer learning resources curated by Chris Noring. [Read the blog](https://techcommunity.microsoft.com/t5/educator-developer-blog/get-ahead-in-2022-developer-learning-opportunities-from/ba-p/3050795?WT.mc_id=academic-52688-chnoring) 
 
  
-
-In this 100th episode of Hello World, Frank Boucher and April Dunnam host an SME discussion of Power Platform covering what it is, who can benefit from using it, and how to get started. [Watch now](https://docs.microsoft.com/shows/hello-world/hello-world-s2-lets-explore-the-power-platform?ocid=AID3045262) 
 
  
 
@@ -105,4 +100,4 @@ ___
 
  
 
-:bookmark: ***Sign up for Microsoft Tech News** - the monthly newsletter for developers and tech professionals, tailored to your preferences. [Click here to sign up.](https://developer.microsoft.com/Newsletter/?ocid=AID3045262)* 
+:bookmark: ***Sign up for Microsoft Tech News** - the monthly newsletter for developers and tech professionals, tailored to your preferences. [Click here to sign up.](https://developer.microsoft.com/Newsletter/?ocid=AID3044106)* 
