@@ -1,110 +1,108 @@
-MARCH RESOURCES FOR DEVELOPERS 
+APRIL RESOURCES FOR DEVELOPERS 
 
-# AI, Machine Learning, and Mixed Reality for Developers 
-
- 
-
-Immerse yourself in what's new and what's next in Mixed Reality development. Also this month—advance your data modelling and architecture proficiency with featured Azure Machine Learning and AI content. 
+# Build and deploy applications with Java on Azure 
 
  
+
+Discover how you can build and deploy Java applications on Azure using the tools and frameworks that you know and love. Check out the repository of new Java on Azure learning content including video, events, blogs and more. 
 
 --- 
 
-### Featured Content on AI, Machine Learning, and Mixed Reality 
+### Featured Content on Java on Azure 
 
  
 
-:scroll:**Mixed Reality Digital Twins Challenge** 
+:scroll:**Elastic and Microsoft Azure - Unified Observability for Spring Boot applications** 
 
  
 
-Build a mixed reality solution for operating a wind farm and interact with streaming IoT data from Azure Digital Twins in HoloLens 2, VR, or the Unity editor. [Take the challenge](https://docs.microsoft.com/learn/challenges?id=73785917-3ea6-4cfc-b1dc-73fae6f7b0ef&?ocid=AID3045628) 
+Monitor every step of your cloud journey, and gain a holistic view across cloud and on-premises environments with Elastic integrations for Spring Boot applications on Azure. [Read the blog](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/elastic-and-microsoft-azure-unified-observability-for-spring/ba-p/3065347?ocid=AID3045628) 
 
  
 
-:cinema:**Visual Studio 25th Anniversary Celebration** 
+:scroll:**Introduction to Java on Azure** 
 
  
 
-March marks 25 years of Visual Studio, the 1st IDE using one dev environment for multiple programming languages. Share your stories using #MyVSStory, wish Visual Studio a Happy Anniversary, and watch the stream with special guests on March 17! Visit [visualstudio.microsoft.com](https://visualstudio.microsoft.com?ocid=AID3045628) 
+Explore the different types of Java applications and opportunities for Java developers to build on #Azure in this learning module. [Read more](https://docs.microsoft.com/learn/modules/intro-to-java-azure/?ocid=AID3045628) 
 
  
 
-:cinema:**Mixed Reality for Cultural Heritage | CodeStories Berlin** 
+:scroll:**Choose the right Azure service for deploying your Java application** 
 
  
 
-Microsoft MVP Zaid Zaim shows us how he built the Mixed Reality for Cultural Heritage project using HoloLens 2 with Unity and Mixed Reality Toolkit (MRTK). [Watch now](https://docs.microsoft.com/shows/codestories/mixed-reality-for-cultural-heritage-codestories-berlin?ocid=AID3034566&WT.mc_id=academic-29190-cxa) 
+Choose the right Azure service for deploying your Java application — learn about options and how to choose the service that best addresses your dev team's needs. [Learn more](https://docs.microsoft.com/learn/modules/java-target-destinations/?ocid=AID3045628) 
 
  
 
-:scroll:**Creating managed online endpoints in Azure ML** 
+:scroll:**Containerize and deploy a Java app to Azure** 
  
-Learn how to build a simple web-based API for feeding data to your model and getting back inference results. [Read the blog](https://techcommunity.microsoft.com/t5/azure-ai-blog/creating-managed-online-endpoints-in-azure-ml/ba-p/3039820?ocid=AID3045628) 
-
- 
-
-:scroll:**How Azure Machine Learning works: Architecture and concepts** 
+Developers can quickly learn about containerization methods for Java apps on Azure in this learning module. [Check it out](https://docs.microsoft.com/learn/modules/containerize-deploy-java-app-aks/?ocid=AID3045628) 
 
  
 
-Learn about the architecture of Azure Machine Learning in this high-level overview of the components and process of building, deploying, and maintaining #ML models. [Read the article](https://docs.microsoft.com/azure/machine-learning/concept-azure-machine-learning-architecture?ocid=AID3045628) 
+:cinema:**Delivering Java to the Cloud with Azure and GitHub** 
 
  
 
-:scroll:**Object recognition using Azure Custom Vision AI and Azure Functions** 
+Java developers have many choices for running applications in the cloud, but knowing where to start can be a challenge. This Azure webinar has demos, real-world examples, and tips to help. [Watch on demand](https://info.microsoft.com/ww-ondemand-delivering-java-to-the-cloud-with-azure-and-github.html?ocid=AID3045628) 
 
  
 
-El Bruno built a hungry squirrel object recognition model using Azure Custom Vision, run in an Azure Function. Because of course he did. Now you can build one, too — or simply learn some nifty vision AI with his scenario. [See the repo](https://github.com/elbruno/CustomVisionAndAzureFunctions?ocid=AID3045628) 
+:scroll:**The Azure Spring Boot client library for Java** 
 
  
 
-:cinema:**Journey into Mixed Reality development (for beginners)** 
+A repo for Spring Boot Starters of Azure services. It helps Spring Boot developers to adopt Azure services from start to containerization. [Browse the repo](https://github.com/Azure/azure-sdk-for-java/tree/main/sdk/spring?ocid=AID3045628) 
 
  
 
-Created for the Mixed Reality beginner, this excellent 10-part series from April Speight is dedicated to helping you get started with your MR development journey. [Join live or on-demand post event](https://docs.microsoft.com/windows/mixed-reality/whats-new/journey-to-mr-series?ocid=AID3045628) 
+:scroll:**Azure Spring Cloud training** 
 
  
 
-:scroll:**MLOps: Model management, deployment, lineage, and monitoring with Azure Machine Learning** 
+Get coding in Azure Spring Cloud quickly with this full workshop by Julien Dubois. Play with the platform using these guides and demos from simple to complex examples. [Learn more](https://github.com/microsoft/azure-spring-cloud-training?ocid=AID3045628) 
 
  
 
-Learn how to perform MLOps with #Azure #MachineLearning to manage the lifecycle of models with increased quality and consistency. [Read the doc](https://docs.microsoft.com/azure/machine-learning/concept-model-management-and-deployment?ocid=AID3045628) 
+:scroll:**Deploy Spring microservices to Azure** 
+
+Learn how to deploy Spring Boot microservices to Azure Spring Cloud ― this Microsoft Learn workshop can be completed in under an hour! [Get started today](https://docs.microsoft.com/learn/modules/azure-spring-cloud-workshop/?ocid=AID3045628) 
 
  
 
-:scroll:**NVIDIA DeepStream Development with Microsoft Azure** 
+:scroll:**Quickstart: Create a Java app on Azure App Service** 
 
  
 
-Develop intelligent video applications to securely deploy NVIDIA DeepStream based AI workloads to IoT Edge devices. [Learn how](https://docs.microsoft.com/learn/paths/nvidia-deepstream-development-with-microsoft-azure/?ocid=AID3045628) 
+Java developers love the way Azure App Service provides a highly scalable, self-patching web hosting service. This quickstart shows how to use the Azure CLI with the Azure Web App Plugin for #Maven to deploy a .jar file, or .war file. [Learn more](https://docs.microsoft.com/azure/app-service/quickstart-java?tabs=javase&pivots=platform-windows&ocid=AID3045628) 
 
  
 
-:scroll:**HoloLens 2 fundamentals: develop mixed reality applications** 
+::scroll:**Azure Spring Cloud Enterprise is now available in preview** 
 
  
 
-Learn techniques and best practices for developing #MR applications with core concepts in #MixedReality Toolkit (MRTK), Azure Spatial Anchors, PC Holographic Remoting, and more. [Get started](https://docs.microsoft.com/learn/paths/beginner-hololens-2-tutorials/?ocid=AID3045628) 
+Azure Spring Cloud Enterprise represents Microsoft’s collaboration with VMware to combine Microsoft cloud platform expertise with VMware’s innovative Tanzu portfolio. Learn about the public preview in the blog by Julia Liuson, President, Microsoft’s Developer Division. [Read now](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-spring-cloud-enterprise-is-now-available-in-preview/ba-p/3172004?ocid=AID3045628) 
 
  
 
-:scroll:**Build Mixed Reality Apps in Native C# with StereoKit** 
+:scroll:**Create a CI/CD pipeline for Java with the Azure DevOps Project** 
+
+The Azure DevOps Project simplifies initial configuration of a continuous integration and continuous delivery pipeline for your Java app in Visual Studio Team Services. [Get started today](https://www.azuredevopslabs.com/labs/vstsextend/devopsprojectforjava/?ocid=AID3045628) 
 
  
 
-By the end of this learning module, you'll be able to set up, create, and build an application using StereoKit! You'll also work across OpenXR platforms like HoloLens 2 and Windows Mixed Reality. [Start learning](https://docs.microsoft.com/learn/modules/intro-to-stereokit/?ocid=AID3045628) 
+:cinema:**JDConf 2022** 
+
+JDConf is a virtual Java focused conference where developers share interesting topics and connect. Learn the latest cloud dev trends, best practices, tips, tricks, and more! [Watch live May 4-5](https://aka.ms/jdconf-2022?ocid=AID3045628) 
 
  
 
-:cinema:**AI Show | Updates to Semantic Search and Speech and more** 
+:cinema:**Learn Live: Deploy your apps with Java on Azure using familiar tools and frameworks** 
 
- 
-
-Aysegul Yonet hosts an exciting episode of AI Show with Derek Legenzoff and Swarit Grover, covering what’s new regarding Semantic Configuration and Security Updates in Cognitive Search. [Watch now](https://docs.microsoft.com/shows/ai-show/updates-to-semantic-search-and-speech-and-more-from-aysegul-and-bea?ocid=AID3045628) 
+Learn Live with us ― how to build, migrate, and scale Java applications on Azure using tools and frameworks you know and love, from Spring, to Kubernetes, to Java EE. [Learn more](https://docs.microsoft.com/events/learntv/learnlive-deploy-apps-java-azure/?ocid=AID3045628) 
 
 ___  
 
