@@ -80,7 +80,7 @@ Java developers love the way Azure App Service provides a highly scalable, self-
 
  
 
-::scroll:**Azure Spring Cloud Enterprise is now available in preview** 
+:scroll:**Azure Spring Cloud Enterprise is now available in preview** 
 
  
 
