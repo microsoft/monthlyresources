@@ -82,7 +82,7 @@ Azure offers the most fully managed hosting for Java of any major cloud platform
 
  
 
-::cinema:**Scale cloud-native apps and accelerate app modernization** 
+:cinema:**Scale cloud-native apps and accelerate app modernization** 
 
  
 
