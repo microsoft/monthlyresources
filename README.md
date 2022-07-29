@@ -78,7 +78,7 @@ In Azure Active Directory (Azure AD), the term app provisioning refers to automa
 
  
 
-Azure Developer CLI is a new command-line tool that accelerates the time that it takes you to go from code to cloud. Learn how to get started in the blog by Savannah Ostrowski.[Read now](https://devblogs.microsoft.com/azure-sdk/introducing-the-azure-developer-cli-a-faster-way-to-build-apps-for-the-cloud/?ocid=AID3045628) 
+Azure Developer CLI is a new command-line tool that accelerates the time that it takes you to go from code to cloud. Learn how to get started in the blog by Savannah Ostrowski. [Read now](https://devblogs.microsoft.com/azure-sdk/introducing-the-azure-developer-cli-a-faster-way-to-build-apps-for-the-cloud/?ocid=AID3045628) 
 
 ___  
 
