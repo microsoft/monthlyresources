@@ -1,84 +1,98 @@
-AUGUST RESOURCES FOR DEVELOPERS 
+SEPTEMBER RESOURCES FOR DEVELOPERS 
 
-# DevSecOps 
+# Java at Microsoft & Java on Azure 
 
  
 
-Check out the latest DevSecOps learning content from Microsoft SMEs. Learn best practices to secure code, workflows, and infrastructure in Azure. 
+**“As a company, we are committed to making Java developers as efficient and productive as possible.”** - Julia Liuson, President of Developer Division at Microsoft.  
+
+ 
+
+Wherever you are with Java, Microsoft supports your workload with an abundance of choices and with a wide range of developer tools and services. This month, we bring you the latest content that will help you code, deploy, and scale your Java applications using the tools and frameworks you love without worrying about infrastructure. Check out new e-books, videos, and much more. 
 
 --- 
 
-### Featured Content on DevSecOps 
+### Featured Content on Java at Microsoft 
 
  
 
-:cinema:**Azure AppFest - Building secure apps on Azure with DevSecOps** 
+:scroll:**Microsoft is committed to the success of Java developers** 
 
  
 
-As new types of cyber attacks rise, harden your dev environment and software supply chain by integrating security early in development. To learn how, watch this recent DevSecOps Azure AppFest session. [Watch on demand](https://www.youtube.com/watch?v=KZr42RAhcRE?ocid=AID3045628) 
+Read the blog from Julia Liuson, President, Developer Division, and check out new resources including a new Java webpage, e-books, infographics, and more! [Learn more](https://aka.ms/JavaYourWayblog?ocid=AID3045628) 
 
  
 
-:scroll:**Enable DevSecOps with Azure and GitHub** 
+:scroll:**Microsoft's new webpage for Java developers** 
 
  
 
-Learn how to secure your code with Azure and GitHub. Read Enable DevSecOps with Azure and GitHub covering tracking with Azure Boards, debugging with Bridge to Kubernetes, managing Azure Key Vault, and more. [Read the doc](https://docs.microsoft.com/devops/devsecops/enable-devsecops-azure-github?ocid=AID3045628) 
+Java devs — It’s finally here! Explore this new collection of docs and resources to help you develop Java applications with Microsoft technologies. [Learn more](Developer.Microsoft.com/java?ocid=AID3045628) 
 
  
 
-:scroll:**Securing Enterprise DevOps Environments** 
+ 
+
+:scroll:**How Microsoft Applies Java e-Book** 
 
  
 
-Explore the ideal secure and regulatory-ready setup of Enterprise DevOps tools and practices, focusing on securing the developer environment, DevOps platform environments, and application environments. [Download now](https://azure.microsoft.com/resources/securing-enterprise-devops-environments/?ocid=AID3045628) 
+Did you know Microsoft uses Java? A lot! Get the inside story with a history of Microsoft’s adoption of and investments in Java, what we do to help Java developers succeed, and how Microsoft groups use Java internally. [Read now](https://aka.ms/msftappliesjava?ocid=AID3045628) 
 
  
 
-:scroll:**Securing DevOps strategy and process** 
- 
-Plan a DevSecOps strategy that blends DevOps with elements of classic security and operations approaches. Learn about a classic waterfall development model in the article. [Read the now](https://docs.microsoft.com/azure/cloud-adoption-framework/secure/devops-strategy-process-security?ocid=AID3045628) 
+:scroll:**Code Deploy Scale Java Your Way e-Book** 
 
  
 
-:scroll:**DevSecOps in Azure** 
+Hot off the press! A comprehensive story of Microsoft’s Java offerings and collaborations — told for the first time in the e-book by Asir Selvasingh, Principal Architect for Java on Microsoft Azure, with foreword by Ryan Morgan. [Read now](https://aka.ms/JavaYourWay?ocid=AID3045628) 
 
  
 
-The Azure DevSecOps approach utilizes security best practices from the start of the development process — shifting away from auditing at the end, using a shift-left strategy. [Read the doc](https://docs.microsoft.com/azure/architecture/solution-ideas/articles/devsecops-in-azure?ocid=AID3045628) 
+:cinema:**How to use Azure in IntelliJ IDEA** 
+ 
+If you’re using IntelliJ IDEA for Java development, you can create, deploy, and work with apps without leaving your IDE! In this video Dalia Abo Sheasha shows you how to set up Azure to work in IntelliJ IDEA, and key features available. [Watch now](https://youtu.be/1DBB5srsqeg?ocid=AID3045628) 
 
  
 
-:scroll:**Getting started with Microsoft Identity** 
+:scroll:**Get started with Java on Azure** 
 
  
 
-Learn the basics of Microsoft Identity including the different types of tokens, account types, and supported topologies. [Start the module](https://docs.microsoft.com/learn/modules/getting-started-identity/?ocid=AID3045628) 
+Learn how you can build, migrate and scale Java applications on Azure using Azure services — using the tools and frameworks that you know and love. [Get started today](https://docs.microsoft.com/learn/paths/get-started-java-azure/?ocid=AID3045628) 
 
  
 
-:cinema:**Microsoft Identity and DevOps** 
+:scroll:**Microsoft Build of OpenJDK™* 
 
  
 
-Christos Matskas is back with DevOps Lab series host April Edwards, in the first episode of a six-part series on Microsoft Identity! Christos demos the Azure Portal to showcase identity integration points. [Watch now](https://www.youtube.com/watch?v=t4xqQdnrd0o?ocid=AID3045628) 
+The Microsoft Build of OpenJDK is a no-cost distribution of OpenJDK that's open source and available for free for anyone to deploy anywhere. [Get info and download today](https://www.microsoft.com/openjdk?ocid=AID3045628) 
 
  
 
-:scroll:**What is app provisioning in Azure Active Directory?** 
+:cinema:**Azure is the home for your Java applications, Part 1** 
 
  
 
-In Azure Active Directory (Azure AD), the term app provisioning refers to automatically creating user identities and roles for apps. Read this article to learn about SCIM, the benefits of automatic provisioning and how to set it up, and more. [Read now](https://docs.microsoft.com/azure/active-directory/app-provisioning/user-provisioning?ocid=AID3045628) 
+Like many of our customers, Microsoft is a Java shop with lots of systems that rely on Java and its ecosystem. Bruno Borges and Scott Hanselman talk Java development with Microsoft. [Watch now](https://docs.microsoft.com/shows/azure-friday/azure-is-the-home-for-your-java-applications-part-1?ocid=AID3045628) 
 
  
 
-:scroll:**Azure Developer CLI – Now in Public Preview** 
+:cinema:**Cloud-native Java development on Visual Studio Code** 
 
  
 
-Azure Developer CLI is a new command-line tool that accelerates the time that it takes you to go from code to cloud. Learn how to get started in the blog by Savannah Ostrowski. [Read now](https://devblogs.microsoft.com/azure-sdk/introducing-the-azure-developer-cli-a-faster-way-to-build-apps-for-the-cloud/?ocid=AID3045628) 
+In this JDConf 2022 session with Mohit Suman and Roland Grunberg we cover the general Java dev experience introduction on VS Code, cloud-native VS Code Java in a demo, and Q & A. [Watch on demand](https://docs.microsoft.com/events/jdconf-2022/cloud-native-java-development-on-visual-studio-code?ocid=AID3045628) 
+
+ 
+
+:cinema:**Working with Strings in Java | Java for Beginner** 
+
+ 
+
+Java Champion Brian Benz introduces Java Strings, explains how Java processes them, and provides tips on how to use them effectively in your Java applications. [Watch now](https://docs.microsoft.com/shows/java-for-beginners/working-with-strings-in-java?ocid=AID3045628  ) 
 
 ___  
 
