@@ -64,7 +64,7 @@ Learn how you can build, migrate and scale Java applications on Azure using Azur
 
  
 
-:scroll:**Microsoft Build of OpenJDK™* 
+:scroll:**Microsoft Build of OpenJDK™** 
 
  
 
