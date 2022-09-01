@@ -12,7 +12,7 @@ Wherever you are with Java, Microsoft supports your workload with an abundance o
 
 --- 
 
-### Featured Content on Java at Microsoft 
+### Featured Content on Java at Microsoft 
 
  
 
@@ -28,7 +28,7 @@ Read the blog from Julia Liuson, President, Developer Division, and check out ne
 
  
 
-Java devs — It’s finally here! Explore this new collection of docs and resources to help you develop Java applications with Microsoft technologies. [Learn more](Developer.Microsoft.com/java?ocid=AID3045628) 
+Java devs — It’s here! Explore this new webpage with docs and resources to help you develop Java applications using the tools and frameworks you love. [Learn more](Developer.Microsoft.com/java?ocid=AID3045628) 
 
  
 
