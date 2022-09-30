@@ -1,6 +1,6 @@
 OCTOBER RESOURCES FOR DEVELOPERS 
 
-# Serverless Applications 
+# Serverless on Azure
 
  
 
@@ -10,7 +10,7 @@ Check out the latest serverless applications learning content from Microsoft SME
 
 --- 
 
-### Featured Content on Serverless Applications 
+### Featured Content - Serverless on Azure 
 
  
 
