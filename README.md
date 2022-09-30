@@ -1,102 +1,118 @@
-SEPTEMBER RESOURCES FOR DEVELOPERS 
+OCTOBER RESOURCES FOR DEVELOPERS 
 
-# Java at Microsoft & Java on Azure 
-
- 
-
-**“As a company, we are committed to making Java developers as efficient and productive as possible.”** - Julia Liuson, President of Developer Division at Microsoft.  
+# Serverless Applications 
 
  
 
-Wherever you are with Java, Microsoft supports your workload with an abundance of choices and with a wide range of developer tools and services. This month, we bring you the latest content that will help you code, deploy, and scale your Java applications using the tools and frameworks you love without worrying about infrastructure. Check out new e-books, videos, and much more. 
+Check out the latest serverless applications learning content from Microsoft SMEs. Learn how to go serverless and build apps faster without the need to manage infrastructure. 
+
+ 
 
 --- 
 
-### Featured Content on Java at Microsoft 
+### Featured Content on Serverless Applications 
 
  
 
-:scroll:**Microsoft is committed to the success of Java developers** 
+ 
+
+:scroll:**Go Cloud Native with Azure Container Apps** 
 
  
 
-Read the blog from Julia Liuson, President, Developer Division, and check out new resources including a new Java webpage, e-books, infographics, and more! [Learn more](https://aka.ms/JavaYourWayblog?ocid=AID3045628) 
+Azure Container Apps help developers get more productive by reducing the operational overhead and the learning curve of adopting a cloud native strategy. Kendall Roden shares best practices for building modern, portable applications. [Read now](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/go-cloud-native-with-azure-container-apps/ba-p/3616407?ocid=AID3045628) 
 
  
 
-:computer:**Microsoft's new webpage for Java developers** 
+ :scroll:**Delete Passwords: Passwordless Connections for Java Apps to Azure Services** 
 
  
 
-Java devs — It’s here! Explore this new webpage with docs and resources to help you develop Java applications using the tools and frameworks you love. [Learn more](Developer.Microsoft.com/java?ocid=AID3045628) 
+Announcing the preview of passwordless connections for Java applications to Azure database and eventing services, allowing you to finally shift away from using passwords! Learn more in the blog by Asir Vedamuthu Selvasingh, Principal PM Architect for Java on Microsoft Azure. [Read now](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/delete-passwords-passwordless-connections-for-java-apps-to-azure/ba-p/3638714?ocid=AID3045628) 
 
- 
-:scroll:**Infographic: Code, Deploy, Scale Java Your Way** 
-
- 
-
-Java developers! Continue using the tools of your choice without worrying about infrastructure. Learn about Microsoft’s commitment to empowering Java developers. [Learn more](https://aka.ms/JavaYourWayInfoG?ocid=AID3045628) 
- 
-
-:scroll:**How Microsoft Applies Java e-Book** 
+:computer:**Serverless September - the collection** 
 
  
 
-Did you know Microsoft uses Java? A lot! Get the inside story with a history of Microsoft’s adoption of and investments in Java, what we do to help Java developers succeed, and how Microsoft groups use Java internally. [Read now](https://aka.ms/msftappliesjava?ocid=AID3045628) 
+Catch up on all things from Serverless September — a celebration of serverless computing from core concepts to usage scenarios and best practices. Explore community-driven and self-guided learning for jumpstarting your Cloud Native journey. [Learn more](https://azure.github.io/Cloud-Native/serverless-september/?ocid=AID3045628) 
+
+
+:cinema:**New API back-end options in Azure Static Web Apps | Azure Friday** 
 
  
 
-:scroll:**Code Deploy Scale Java Your Way e-Book** 
+Annina Keller joins Scott Hanselman to demo how Azure Static Web Apps provide built-in serverless API endpoints via integration with Azure services. [Watch now](https://learn.microsoft.com/en-us/shows/azure-friday/new-api-back-end-options-in-azure-static-web-apps?ocid=AID3045628) 
 
  
 
-Hot off the press! A comprehensive story of Microsoft’s Java offerings and collaborations — told for the first time in the e-book by Asir Selvasingh, Principal Architect for Java on Microsoft Azure, with foreword by Ryan Morgan. [Read now](https://aka.ms/JavaYourWay?ocid=AID3045628) 
+:cinema:**Enhanced Visual Studio Code Java Tooling and Container Apps** 
 
  
 
-:cinema:**How to use Azure in IntelliJ IDEA** 
- 
-If you’re using IntelliJ IDEA for Java development, you can create, deploy, and work with apps without leaving your IDE! In this video Dalia Abo Sheasha shows you how to set up Azure to work in IntelliJ IDEA, and key features available. [Watch now](https://youtu.be/1DBB5srsqeg?ocid=AID3045628) 
+Catch Burke Holland and Rory Preddy share how to leverage a natural developer flow with Container Apps and the recently enhanced Visual Studio Code Java Tooling. [Watch now](https://docs.microsoft.com/shows/vs-code-livestreams/enhanced-visual-studio-code-java-tooling-and-container-apps?ocid=AID3045628) 
 
  
 
-:scroll:**Get started with Java on Azure** 
+:scroll:**Create serverless applications** 
+ 
+Learn how to leverage functions to execute server-side logic and build serverless architectures. This learning path can help you prepare for the Microsoft Azure Developer Associate certification. [Start today](https://docs.microsoft.com/training/paths/create-serverless-applications/?ocid=AID3045628) 
 
  
 
-Learn how you can build, migrate and scale Java applications on Azure using Azure services — using the tools and frameworks that you know and love. [Get started today](https://docs.microsoft.com/learn/paths/get-started-java-azure/?ocid=AID3045628) 
+:scroll:**Build serverless, full stack applications in Azure** 
 
  
 
-:scroll:**Microsoft Build of OpenJDK™** 
+Learn how to build serverless full stack apps using the language of your choice and a Vue.js frontend. In a scenario of trying to catch the bus, build a solution using Azure SQL Database, Azure Functions, Azure Static Web Apps, and more. [Hop on board](https://docs.microsoft.com/training/paths/build-serverless-full-stack-apps-azure/?ocid=AID3045628) 
 
  
 
-The Microsoft Build of OpenJDK is a no-cost distribution of OpenJDK that's open source and available for free for anyone to deploy anywhere. [Get info and download today](https://www.microsoft.com/openjdk?ocid=AID3045628) 
+:scroll:**Where am I? My GPS Location with Serverless Power Platform Custom Connector** 
 
  
 
-:cinema:**Azure is the home for your Java applications, Part 1** 
+Follow along as Justin Yoo and Nitya Narasimhan build a custom serverless Power Platform connector that provides a static map image generated by Google Maps API and Naver Map API, using your GPS location. [Let’s go](https://azure.github.io/Cloud-Native/blog/28-where-am-i/?ocid=AID3045628) 
 
  
 
-Like many of our customers, Microsoft is a Java shop with lots of systems that rely on Java and its ecosystem. Bruno Borges and Scott Hanselman talk Java development with Microsoft. [Watch now](https://docs.microsoft.com/shows/azure-friday/azure-is-the-home-for-your-java-applications-part-1?ocid=AID3045628) 
+:cinema:**Build a toll booth app with Azure Serverless architecture** 
 
  
 
-:cinema:**Cloud-native Java development on Visual Studio Code** 
+Gwyn Peña-Siguenza introduces the What the Hack challenges that take you through architecting a serverless solution on Azure for the use case of a tollbooth application. Let’s go out of the comfort zone and try something new! [Watch now](https://www.youtube.com/watch?v=ABwDOd7K5is&list=PLmsFUfdnGr3wg9NCWGYGw0IJORaqXhzLP&index=1?ocid=AID3045628) 
+
+ 
+:scroll:**A walkthrough of Durable Entities** 
 
  
 
-In this JDConf 2022 session with Mohit Suman and Roland Grunberg we cover the general Java dev experience introduction on VS Code, cloud-native VS Code Java in a demo, and Q & A. [Watch on demand](https://docs.microsoft.com/events/jdconf-2022/cloud-native-java-development-on-visual-studio-code?ocid=AID3045628) 
+Durable Entities are a special type of Azure Function that allow you to implement stateful objects in a serverless environment. Learn more in this walk-through blog. [Learn now](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/a-walkthrough-of-durable-entities/ba-p/3616832?ocid=AID3045628) 
+
+ 
+:scroll:**Cloud-Scale Data for Spring Developers** 
 
  
 
-:cinema:**Working with Strings in Java | Java for Beginner** 
+This guide will help you build cloud-native #Java applications in #Azure with real-world examples. You’ll gain insights about using NoSQL and why you’ll love Azure Cosmos DB, our fully managed, distributed #NoSQL database service on Azure. [Get the guide](https://azure.github.io/cloud-scale-data-for-devs-guide/?ocid=AID3045628) 
+
+
 
  
 
-Java Champion Brian Benz introduces Java Strings, explains how Java processes them, and provides tips on how to use them effectively in your Java applications. [Watch now](https://docs.microsoft.com/shows/java-for-beginners/working-with-strings-in-java?ocid=AID3045628  ) 
+:cinema:**Ask the Expert | Serverless September: Azure Container Apps** 
+
+ 
+
+The Azure Container Apps Product Group covers serverless containers purpose-built for microservices in this Q&A. Experts will be sharing how to build and deploy modern apps and microservices with Azure Container Apps. [Watch on demand](https://reactor.microsoft.com/reactor/events/17004/?ocid=AID3045628) 
+
+ 
+
+
+ 
+
+
+
+ 
 
 ___  
 
