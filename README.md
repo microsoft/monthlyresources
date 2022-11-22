@@ -10,7 +10,7 @@ Inclusive tech benefits everyone. Learn how to #develop4all with accessibility f
 
 --- 
 
-### Featured Content on Diversity, Inclusion, and Accessibility 
+### Featured Content on Diversity, Inclusion, and Accessibility 
 
  
 
