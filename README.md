@@ -26,7 +26,7 @@ Take a look at Inclusive Design from the people who know it best.  The intent of
 
  
 
-Learn how to make the workplace more inviting and inclusive for all people, with accessible technology — in less than 2 hours. [Take the challenge](https://learn.microsoft.com/training/challenges?id=3bf8db87-e15d-4f86-b7fc-8a624974e478?ocid=AID3045641) 
+Learn how to make the workplace more inviting and inclusive for all people, with accessible technology — in less than 2 hours. [Take the challenge](https://learn.microsoft.com/training/challenges?id=3bf8db87-e15d-4f86-b7fc-8a624974e478) 
 
  
 
