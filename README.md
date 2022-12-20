@@ -34,7 +34,7 @@ Learn how to use GitHub integration in Visual Studio Code for authentication, pu
 
  
 
-Learn about Bridge to Kubernetes and other add-ons to help you get from source code to running on an AKS — using familiar tools like Visual Studio Code, GitHub, and the Azure portal. [Read the blog] (https://techcommunity.microsoft.com/t5/apps-on-azure-blog/code-to-cloud-with-azure-kubernetes-service-aks/ba-p/3669916?ocid=AID3045628) 
+Learn about Bridge to Kubernetes and other add-ons to help you get from source code to running on an AKS — using familiar tools like Visual Studio Code, GitHub, and the Azure portal. [Read the blog](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/code-to-cloud-with-azure-kubernetes-service-aks/ba-p/3669916?ocid=AID3045628) 
 
  
 
@@ -56,7 +56,7 @@ In this episode you will learn to Publish Bicep files to a template spec from a 
 
  
 
-GitHub Actions for Azure is developed by Microsoft and designed to be used with Azure. Read this article to learn how you can get started with automated workflows using this service today. [Read now] (https://learn.microsoft.com/azure/developer/github/github-actions?ocid=AID3045628) 
+GitHub Actions for Azure is developed by Microsoft and designed to be used with Azure. Read this article to learn how you can get started with automated workflows using this service today. [Read now](https://learn.microsoft.com/azure/developer/github/github-actions?ocid=AID3045628) 
 
  
 
