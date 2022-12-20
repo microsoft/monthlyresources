@@ -1,88 +1,96 @@
-DECEMBER RESOURCES FOR DEVELOPERS 
+JANUARY RESOURCES FOR DEVELOPERS 
 
-# Develop for All 
+# GitHub + Azure 
 
  
 
-Inclusive tech benefits everyone. Learn how to #develop4all with accessibility focused learning content for developers, and inspiring stories about diverse communities. 
+GitHub is the home for developers across the world. Learn how to enhance your workflows using GitHub + Azure with content about GitHub Codespaces, GitHub Actions for Azure, and more. 
 
  
 
 --- 
 
-### Featured Content on Diversity, Inclusion, and Accessibility 
+### Featured Content on GitHub + Azure 
 
  
 
-:cinema:**Inclusive Design Subject Matter Experts** 
+:cinema:**Microsoft Azure Virtual Training Day: DevOps with GitHub** 
 
  
 
-Take a look at Inclusive Design from the people who know it best.  The intent of this 5-part video series is to support and inspire designers and developers to innovate in a way that puts humans first, on a universal scale. [Watch now](https://www.youtube.com/playlist?list=PL6VNrQ4S3EEimyhy59DU7sQcdnDWk8vX-) 
+Join us January 26 & 27, 2023, to learn about the tools and processes to help you communicate and collaborate more effectively. Learn how to implement new DevOps concepts. [Sign up now](https://mktoevents.com/Microsoft+Event/374353/157-GQE-382?ocid=AID3045628) 
 
  
 
-:scroll:**Accessibility in Technology Challenge** 
+:scroll:**Introduction to GitHub in Visual Studio Code** 
 
  
 
-Learn how to make the workplace more inviting and inclusive for all people, with accessible technology — in less than 2 hours. [Take the challenge](https://learn.microsoft.com/training/challenges?id=3bf8db87-e15d-4f86-b7fc-8a624974e478) 
+Learn how to use GitHub integration in Visual Studio Code for authentication, publishing repos, and viewing repo timelines. [Start today](https://learn.microsoft.com/training/modules/introduction-to-github-visual-studio-code/?ocid=AID3045628) 
+
+ 
+
+:scroll:**Code-to-cloud with Azure Kubernetes Service (AKS)** 
+
+ 
+
+Learn about Bridge to Kubernetes and other add-ons to help you get from source code to running on an AKS — using familiar tools like Visual Studio Code, GitHub, and the Azure portal. [Read the blog] (https://techcommunity.microsoft.com/t5/apps-on-azure-blog/code-to-cloud-with-azure-kubernetes-service-aks/ba-p/3669916?ocid=AID3045628) 
+
+ 
+
+:scroll:**Azure Boards-GitHub integration** 
+ 
+By connecting Azure Boards with GitHub repositories, you enable linking between GitHub commits, pull requests, and issues to work items. Use this guide to integrate Azure Boards with one or more GitHub repositories, and scale your work. [Learn more](https://learn.microsoft.com/azure/devops/boards/github/?view=azure-devops?ocid=AID3045628) 
+
+ 
+
+:cinema:**Learn Live: Publish reusable Bicep code by using GitHub Actions** 
+
+ 
+
+In this episode you will learn to Publish Bicep files to a template spec from a GitHub Actions workflow, automatically add version numbers to your modules and template specs, and more. [Sign up today](https://reactor.microsoft.com/reactor/events/17564/?ocid=AID3045628) 
+
+ 
+
+:scroll:**What is GitHub Actions for Azure** 
+
+ 
+
+GitHub Actions for Azure is developed by Microsoft and designed to be used with Azure. Read this article to learn how you can get started with automated workflows using this service today. [Read now] (https://learn.microsoft.com/azure/developer/github/github-actions?ocid=AID3045628) 
+
+ 
+
+:cinema:**Continuous accessibility - Universe 2022** 
+
+ 
+
+Melanie Sumner presents a strategic vision for the future of the web — a more inclusive web for everyone. [Watch now](https://learn.microsoft.com/training/modules/web-development-101-accessibility/?ocid=AID3045641) 
+
+ 
+
+:scroll:**GitHub Codespaces and how can Students access it for free** 
+
+ 
+
+Recently announced at GitHub Universe 2022 — GitHub is offering 90 hours of GitHub Codespaces to registered students for free! Learn more in the blog by Alfredo Deza. [Start today](https://techcommunity.microsoft.com/t5/educator-developer-blog/what-is-github-codespaces-and-how-can-students-access-it-for/ba-p/3676103?ocid=AID3045628) 
+
+ 
+
+:scroll:**Azure and GitHub integration** 
+
+ 
+
+By connecting Azure Boards with GitHub repositories, you enable linking between GitHub commits, pull requests, and issues to work items. Use this guide to integrate Azure Boards with one or more GitHub repositories, and scale your work. [Learn more](https://learn.microsoft.com/azure/developer/github/?ocid=AID3045628) 
 
  
 
  
 
-:cinema:**In Tech: LHIT!!! Latinx & Hispanics in Tech** 
+:cinema:**Introduction To Codespaces Playlist** 
 
  
 
-This mini documentary celebrates the brilliant innovations, artistry, and craftsmanship that Latinx designers at Microsoft have contributed to design. [Watch now](https://www.youtube.com/watch?v=cXe2EE_qVfY&t=209s?ocid=AID3045641) 
-
- 
-
-:cinema:**Tech for Good: US innovators making an impact** 
-
- 
-
-This diverse panel of developers used their technical skillset to build tech for the greater good. Discover how they identified a need, got started, and their biggest learnings from projects. [Watch now](https://mybuild.microsoft.com/sessions/831faf05-bcb5-4fd8-9844-8e64def1a15b?ocid=AID3045641) 
-
- 
-
-:cinema:**Using Azure Cognitive Services to create more accessible experiences | Azure Friday** 
- 
-Henk Boelman joins Scott Hanselman to discuss the AI building blocks available in Azure and how #AI can help create more accessible experiences. [Watch now](https://learn.microsoft.com/shows/azure-friday/using-azure-cognitive-services-to-create-more-accessible-experiences?ocid=AID3045641) 
-
- 
-
-:cinema:**Developer tools enable everyone to be productive (Microsoft Ability Summit)** 
-
- 
-
-Learn about developing accessible code, gaming for everyone, and the importance of working with community to highlight inclusive storytelling. [Watch on demand](https://learn.microsoft.com/events/build-2022/od62-developer-tools-enable-everyone-to-be-productive-microsoft-ability-summit?ocid=AID3045641) 
-
- 
-
-:cinema:**Philly Tech Sistas X Microsoft Reactor – Career Panel** 
-
- 
-
-Microsoft Reactor and Philly Tech Sistas have partnered to bring you a career panel session with amazing women at Microsoft — all with different backgrounds and careers. The discussion includes their journey to tech, classes, certificates, and more [Check it out](https://developer.microsoft.com/reactor/events/17541/?ocid=AID3045641) 
-
- 
-
-:cinema:**Learn the basics of web accessibility** 
-
- 
-
-Learn about the various tools and reports at your disposal to highlight issues concerning web accessibility, including ARIA tags that make your app usable by all. [Start today](https://learn.microsoft.com/training/modules/web-development-101-accessibility/?ocid=AID3045641) 
-
- 
-
-:scroll:**DemocracyLab - Hacky New Year** 
-
- 
-
-Join us online or in-person on January 14 for a gathering of our tech-for-good community. It’s a chance to get inspired, imagine a better future, and contribute your talents to projects that need help. [RSVP here](https://developer.microsoft.com/reactor/events/17182/?ocid=AID3045641) 
+A full tutorial introduction to GitHub Codespaces. [Watch now](https://www.youtube.com/playlist?list=PLmsFUfdnGr3wTl-NCblzcrEv2lFSX975-) 
 
  
 
