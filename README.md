@@ -1,98 +1,94 @@
-JANUARY RESOURCES FOR DEVELOPERS 
+FEBRUARY RESOURCES FOR DEVELOPERS 
 
-# GitHub + Azure 
+# Cloud Testing 
 
  
 
-GitHub is the home for developers across the world. Learn how to enhance your workflows using GitHub + Azure with content about GitHub Codespaces, GitHub Actions for Azure, and more. 
+Developers need cloud testing tools to optimize application performance, scalability, and security. Explore the latest on Azure Load Testing, Playwright, and Azure Chaos Studio with new learning content from Microsoft SMEs. 
 
  
 
 --- 
 
-### Featured Content on GitHub + Azure 
+### Featured Content on Cloud Testing 
 
  
 
-:cinema:**Microsoft Azure Virtual Training Day: DevOps with GitHub** 
+:scroll:**General Availability of Azure Load Testing** 
 
  
 
-Join us January 26 & 27, 2023, to learn about the tools and processes to help you communicate and collaborate more effectively. Learn how to implement new DevOps concepts. [Sign up now](https://mktoevents.com/Microsoft+Event/374353/157-GQE-382?ocid=AID3045628) 
+Azure Load Testing is a fully managed load-testing service that enables developers to generate high-scale load, gain actionable insights, and ensure the resiliency of your applications and services — regardless of where they're hosted. Developers and testers can use it to optimize application performance, scalability, or capacity. [Read the announcement](https://aka.ms/MALT-GA) 
 
  
 
-:scroll:**Introduction to GitHub in Visual Studio Code** 
+:cinema:**AMA with Azure Load Testing Team** 
 
  
 
-Learn how to use GitHub integration in Visual Studio Code for authentication, publishing repos, and viewing repo timelines. [Start today](https://learn.microsoft.com/training/modules/introduction-to-github-visual-studio-code/?ocid=AID3045628) 
+Save the date!  Join the Azure Load Testing product team for a text-based AMA on February 22 from 9-10am PST. [Learn more](https://techcommunity.microsoft.com/t5/azure-events/azure-load-testing-ama/ec-p/3711949#M450?ocid=AID3045628) 
 
  
 
-:scroll:**Code-to-cloud with Azure Kubernetes Service (AKS)** 
+:scroll:**Quickstart: Create and run a chaos experiment using Azure Chaos Studio** 
+ 
+Learn how to create and run an experiment using Azure Chaos Studio with VM shutdown service-direct, and make your services more resilient to that failure in real-world. [Learn more](https://learn.microsoft.com/azure/chaos-studio/chaos-studio-quickstart-azure-portal?ocid=AID3045628) 
 
  
 
-Learn about Bridge to Kubernetes and other add-ons to help you get from source code to running on an AKS — using familiar tools like Visual Studio Code, GitHub, and the Azure portal. [Read the blog](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/code-to-cloud-with-azure-kubernetes-service-aks/ba-p/3669916?ocid=AID3045628) 
+:scroll:**Comprehensive End-to-End Testing in Azure: Introduction** 
 
  
 
-:scroll:**Azure Boards-GitHub integration** 
- 
-By connecting Azure Boards with GitHub repositories, you enable linking between GitHub commits, pull requests, and issues to work items. Use this guide to integrate Azure Boards with one or more GitHub repositories, and scale your work. [Learn more](https://learn.microsoft.com/azure/devops/boards/github/?view=azure-devops?ocid=AID3045628) 
+What is end-to-end testing? How can you get started? Mauro Contreras covers how Playwright, Azure Load Testing, and Azure Chaos Studio help development teams build resilient, high-quality apps. [Read the blog](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/comprehensive-end-to-end-testing-in-azure-introduction/ba-p/3694034?ocid=AID3045628) 
 
  
 
-:cinema:**Learn Live: Publish reusable Bicep code by using GitHub Actions** 
+:scroll:**Playwright Accessibility Testing** 
 
  
 
-In this episode you will learn to Publish Bicep files to a template spec from a GitHub Actions workflow, automatically add version numbers to your modules and template specs, and more. [Sign up today](https://reactor.microsoft.com/reactor/events/17564/?ocid=AID3045628) 
+Learn how Playwright can be used for accessibility testing — like UI controls and form elements without labels that a screen reader could identify. [Read the doc] (https://playwright.dev/docs/accessibility-testing?ocid=AID3045628) 
 
  
 
-:scroll:**What is GitHub Actions for Azure** 
+:cinema:**Continuously validate and test your mission-critical Azure workloads** 
 
  
 
-GitHub Actions for Azure is developed by Microsoft and designed to be used with Azure. Read this article to learn how you can get started with automated workflows using this service today. [Read now](https://learn.microsoft.com/azure/developer/github/github-actions?ocid=AID3045628) 
+Learn how to continuously validate and test your mission-critical Azure workloads on Azure Friday with Scott Hanselman. [Watch now](https://learn.microsoft.com/shows/azure-friday/continuously-validate-and-test-your-mission-critical-azure-workloads?ocid=AID3045628) 
 
  
 
-:cinema:**Continuous accessibility - Universe 2022** 
+:scroll:**Testing web applications with Playwright** 
 
  
 
-Melanie Sumner presents a strategic vision for the future of the web — a more inclusive web for everyone. [Watch now](https://learn.microsoft.com/training/modules/web-development-101-accessibility/?ocid=AID3045641) 
+Built by Microsoft and fully open source — Playwright is a reliable end-to-end cross browser testing tool for modern web apps. Replay the .NET Conf session Testing Blazor apps with Playwright by Debbie O'Brien and Max Schmitt. [On demand now](https://youtu.be/Vn__rlS36yc) 
 
  
 
-:scroll:**GitHub Codespaces and how can Students access it for free** 
+:cinema:**Automated cloud application testing with Azure and Playwright** 
 
  
 
-Recently announced at GitHub Universe 2022 — GitHub is offering 90 hours of GitHub Codespaces to registered students for free! Learn more in the blog by Alfredo Deza. [Start today](https://techcommunity.microsoft.com/t5/educator-developer-blog/what-is-github-codespaces-and-how-can-students-access-it-for/ba-p/3676103?ocid=AID3045628) 
+Automated testing is the next frontier in quality assurance. Let’s make more technically resilient applications in the cloud. Scott Hanselman and Jen Perret demonstrate testing at scale. [Watch now](https://ignite.microsoft.com/sessions/ea19c293-7d8a-4218-8203-5af9528a091b?ocid=AID3045628) 
 
  
 
-:scroll:**Azure and GitHub integration** 
+:cinema:**Testing Blazor Applications with Playwright** 
 
  
 
-By connecting Azure Boards with GitHub repositories, you enable linking between GitHub commits, pull requests, and issues to work items. Use this guide to integrate Azure Boards with one or more GitHub repositories, and scale your work. [Learn more](https://learn.microsoft.com/azure/developer/github/?ocid=AID3045628) 
+Built by Microsoft and fully open source — Playwright is a reliable end-to-end cross browser testing tool for modern web apps, Learn about it in the .NET Conf 2022 session by Debbie O'Brien and Max Schmitt. [Watch now](https://learn.microsoft.com/events/dotnetconf-2022/testing-blazor-applications-with-playwright?ocid=AID3045628) 
 
  
 
- 
-
-:cinema:**Introduction To Codespaces Playlist** 
+:cinema:**The DevOps Lab - New features in Azure Load Testing** 
 
  
 
-A full tutorial introduction to GitHub Codespaces. [Watch now](https://www.youtube.com/playlist?list=PLmsFUfdnGr3wTl-NCblzcrEv2lFSX975-) 
-
- 
+Nikita Nallamothu joins April Edwards to run through Azure Load Testing — now generally available, with a tutorial covering everything from how to get started, to customizing your test scripts and analyzing test results. [Watch now](https://aka.ms/MALT-DevOpsLabGA) 
 
 ___  
 
